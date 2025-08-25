@@ -1,0 +1,4392 @@
+{
+  "Acorn": [
+    "Food",
+    "Seeds"
+  ],
+  "AcornPowder": [
+    "Food"
+  ],
+  "AcornShirtI": [
+    "Clothes"
+  ],
+  "AdornedAshlarBasaltBench": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "AdornedAshlarBasaltChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "AdornedAshlarBasaltTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "AdornedAshlarGneissBench": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "AdornedAshlarGneissChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "AdornedAshlarGneissTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "AdornedAshlarGraniteBench": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "AdornedAshlarGraniteChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "AdornedAshlarGraniteTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "AdornedAshlarLimestoneBench": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "AdornedAshlarLimestoneChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "AdornedAshlarLimestoneTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "AdornedAshlarSandstoneBench": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "AdornedAshlarSandstoneChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "AdornedAshlarSandstoneTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "AdornedAshlarShaleBench": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "AdornedAshlarShaleChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "AdornedAshlarShaleTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "AdornedAshlarStoneBench": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "AdornedAshlarStoneChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "AdornedAshlarStoneTable": [
+    "HasTableSurface",
+    "Housing",
+    "Mountable"
+  ],
+  "AdvancedBakingSkillBook": [
+    "SkillBooks"
+  ],
+  "AdvancedBakingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "AdvancedBakingUpgrade": [
+    "Upgrade"
+  ],
+  "AdvancedCircuit": [
+    "Parts"
+  ],
+  "AdvancedCombustionEngine": [
+    "Parts"
+  ],
+  "AdvancedCookingSkillBook": [
+    "SkillBooks"
+  ],
+  "AdvancedCookingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "AdvancedCookingUpgrade": [
+    "Upgrade"
+  ],
+  "AdvancedMasonrySkillBook": [
+    "SkillBooks"
+  ],
+  "AdvancedMasonrySkillScroll": [
+    "SkillScrolls"
+  ],
+  "AdvancedMasonryTable": [
+    "CanBeOnRug",
+    "CraftingTable",
+    "HasTableSurface"
+  ],
+  "AdvancedMasonryUpgrade": [
+    "Upgrade"
+  ],
+  "AdvancedSmeltingSkillBook": [
+    "SkillBooks"
+  ],
+  "AdvancedSmeltingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "AdvancedSmeltingUpgrade": [
+    "Upgrade"
+  ],
+  "AdvancedTailoringTable": [
+    "CanBeOnRug",
+    "CraftingTable",
+    "HasTableSurface"
+  ],
+  "AdvancedUpgrade1": [
+    "AdvancedUpgrade",
+    "Upgrade"
+  ],
+  "AdvancedUpgrade2": [
+    "AdvancedUpgrade",
+    "Upgrade"
+  ],
+  "AdvancedUpgrade3": [
+    "AdvancedUpgrade",
+    "Upgrade"
+  ],
+  "AdvancedUpgrade4": [
+    "AdvancedUpgrade",
+    "Upgrade"
+  ],
+  "AdvancedUpgradeLvl1": [
+    "AdvancedUpgrade",
+    "Upgrade"
+  ],
+  "AdvancedUpgradeLvl2": [
+    "AdvancedUpgrade",
+    "Upgrade"
+  ],
+  "AdvancedUpgradeLvl3": [
+    "AdvancedUpgrade",
+    "Upgrade"
+  ],
+  "AdvancedUpgradeLvl4": [
+    "AdvancedUpgrade",
+    "Upgrade"
+  ],
+  "AgaveLeaves": [
+    "Crop",
+    "Food",
+    "Greens",
+    "RawFood"
+  ],
+  "AgaveSeed": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "AgoutiCarcass": [
+    "TinyCarcass",
+    "TinyFurCarcass"
+  ],
+  "AgoutiEnchiladas": [
+    "Food"
+  ],
+  "AgricultureResearchPaperAdvanced": [
+    "AdvancedResearch",
+    "Research"
+  ],
+  "AgricultureResearchPaperModern": [
+    "ModernResearch",
+    "Research"
+  ],
+  "AlligatorCarcass": [
+    "MediumCarcass",
+    "MediumLeatherCarcass"
+  ],
+  "AmanitaMushroomSpores": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "AmanitaMushrooms": [
+    "Crop",
+    "Food",
+    "Fungus"
+  ],
+  "Amendments": [
+    "HewnLog",
+    "MortaredStone"
+  ],
+  "AnimalCarcass": [
+    "MediumCarcass"
+  ],
+  "Anvil": [
+    "CraftingTable",
+    "CanBeOnRug"
+  ],
+  "ArcticWillowSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "Arrow": [
+    "BurnableFuel",
+    "Fuel"
+  ],
+  "AshlarBasalt": [
+    "AshlarStone"
+  ],
+  "AshlarBasaltBench": [
+    "Housing",
+    "Mountable"
+  ],
+  "AshlarBasaltChair": [
+    "Housing",
+    "Mountable"
+  ],
+  "AshlarBasaltFireplace": [
+    "BurnableFuel",
+    "Housing"
+  ],
+  "AshlarGneiss": [
+    "AshlarStone"
+  ],
+  "AshlarGranite": [
+    "AshlarStone"
+  ],
+  "AshlarLimestone": [
+    "AshlarStone"
+  ],
+  "AshlarSandstone": [
+    "AshlarStone"
+  ],
+  "AshlarShale": [
+    "AshlarStone"
+  ],
+  "AshlarStone": [
+    "AshlarStone"
+  ],
+  "AsphaltConcrete": [
+    "Road"
+  ],
+  "AutomaticLoom": [
+    "CraftingTable"
+  ],
+  "Axe": [
+    "Tool"
+  ],
+  "BakedAgave": [
+    "BakedVegetable",
+    "Food",
+    "BakedFood"
+  ],
+  "BakedBeet": [
+    "BakedVegetable",
+    "Food",
+    "BakedFood"
+  ],
+  "BakedCorn": [
+    "BakedVegetable",
+    "Food",
+    "BakedFood"
+  ],
+  "BakedHeartOfPalm": [
+    "BakedVegetable",
+    "Food",
+    "BakedFood"
+  ],
+  "BakedMorsel": [
+    "Food"
+  ],
+  "BakedRoast": [
+    "Food",
+    "BakedFood"
+  ],
+  "BakedTaro": [
+    "BakedVegetable",
+    "Food",
+    "BakedFood"
+  ],
+  "BakedTomato": [
+    "BakedVegetable",
+    "Food",
+    "BakedFood"
+  ],
+  "BakeryOven": [
+    "CraftingTable"
+  ],
+  "BakingSkillBook": [
+    "SkillBooks"
+  ],
+  "BakingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "BakingUpgrade": [
+    "Upgrade"
+  ],
+  "BananaShirt": [
+    "Clothes"
+  ],
+  "Bank": [
+    "CraftingTable"
+  ],
+  "BarrelCactusSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "Basalt": [
+    "Rock"
+  ],
+  "BasicBackpack": [
+    "Clothes"
+  ],
+  "BasicCircuit": [
+    "Parts"
+  ],
+  "BasicEngineeringSkillBook": [
+    "SkillBooks"
+  ],
+  "BasicEngineeringSkillScroll": [
+    "SkillScrolls"
+  ],
+  "BasicEngineeringUpgrade": [
+    "Upgrade"
+  ],
+  "BasicSalad": [
+    "Salad",
+    "Food"
+  ],
+  "BasicUpgrade1": [
+    "BasicUpgrade",
+    "Upgrade"
+  ],
+  "BasicUpgrade2": [
+    "BasicUpgrade",
+    "Upgrade"
+  ],
+  "BasicUpgrade3": [
+    "BasicUpgrade",
+    "Upgrade"
+  ],
+  "BasicUpgrade4": [
+    "BasicUpgrade",
+    "Upgrade"
+  ],
+  "BasicUpgradeLvl1": [
+    "BasicUpgrade",
+    "Upgrade"
+  ],
+  "BasicUpgradeLvl2": [
+    "BasicUpgrade",
+    "Upgrade"
+  ],
+  "BasicUpgradeLvl3": [
+    "BasicUpgrade",
+    "Upgrade"
+  ],
+  "BasicUpgradeLvl4": [
+    "BasicUpgrade",
+    "Upgrade"
+  ],
+  "Bass": [
+    "Fish",
+    "MediumFish"
+  ],
+  "BeanPaste": [
+    "Food"
+  ],
+  "BeanSprout": [
+    "Greens",
+    "RawFood"
+  ],
+  "Beans": [
+    "Crop",
+    "CropSeed",
+    "Food",
+    "RawFood",
+    "Vegetable",
+    "Seeds"
+  ],
+  "BearCarcass": [
+    "LargeCarcass"
+  ],
+  "BearMount": [
+    "Housing"
+  ],
+  "BearpawBoots": [
+    "Clothes"
+  ],
+  "Bearpack": [
+    "Clothes"
+  ],
+  "Beet": [
+    "Crop",
+    "Vegetable",
+    "RawFood",
+    "Food"
+  ],
+  "BeetCampfireSalad": [
+    "CampfireSalad",
+    "Food"
+  ],
+  "BeetGreens": [
+    "Greens",
+    "Crop",
+    "RawFood",
+    "Food"
+  ],
+  "BeetSeed": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "BerryExtractFertilizer": [
+    "Fertilizer"
+  ],
+  "BigBackpack": [
+    "Clothes"
+  ],
+  "BigBluestemSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "BighornCarcass": [
+    "MediumCarcass",
+    "MediumWoolyCarcass"
+  ],
+  "Biodiesel": [
+    "Fuel",
+    "LiquidFuel"
+  ],
+  "BirchLog": [
+    "BurnableFuel",
+    "Fuel",
+    "Hardwood",
+    "Wood"
+  ],
+  "BirchSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "BisonMount": [
+    "Housing"
+  ],
+  "BlackPowder": [
+    "Explosives"
+  ],
+  "BlacksmithAdvancedUpgrade": [
+    "Upgrade"
+  ],
+  "BlacksmithTable": [
+    "CanBeOnRug",
+    "CraftingTable",
+    "HasTableSurface"
+  ],
+  "BlacksmithUpgrade": [
+    "Upgrade"
+  ],
+  "BlastFurnace": [
+    "CraftingTable",
+    "CanBeOnRug"
+  ],
+  "BlastingCap": [
+    "Explosives"
+  ],
+  "BloodMealFertilizer": [
+    "Fertilizer"
+  ],
+  "Bloomery": [
+    "CraftingTable"
+  ],
+  "BlueDye": [
+    "Pigment"
+  ],
+  "BlueFlowerShirt": [
+    "Clothes"
+  ],
+  "BlueFlowerVase": [
+    "Housing"
+  ],
+  "BluePowder": [
+    "Pigment"
+  ],
+  "BlueShark": [
+    "Fish",
+    "LargeFish"
+  ],
+  "Board": [
+    "WoodBoard",
+    "Fuel",
+    "BurnableFuel"
+  ],
+  "BoiledGrains": [
+    "Food"
+  ],
+  "BoiledSausage": [
+    "Food"
+  ],
+  "Boiler": [
+    "Parts"
+  ],
+  "BoleteMushroomSpores": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "BoleteMushrooms": [
+    "Crop",
+    "Food",
+    "Fungus",
+    "RawFood"
+  ],
+  "Bow": [
+    "Tool"
+  ],
+  "Bread": [
+    "Bread",
+    "Food"
+  ],
+  "BrickFireplace": [
+    "Housing"
+  ],
+  "Brioche": [
+    "Food"
+  ],
+  "BrownDye": [
+    "Pigment"
+  ],
+  "BuilderBoard": [
+    "Housing"
+  ],
+  "BuilderBoots": [
+    "Clothes"
+  ],
+  "BuilderHelmet": [
+    "Clothes"
+  ],
+  "BuilderOveralls": [
+    "Clothes"
+  ],
+  "BuilderShirt": [
+    "Clothes"
+  ],
+  "BuildingSkillBook": [
+    "SkillBooks"
+  ],
+  "BuildingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "BuildingUpgrade": [
+    "Upgrade"
+  ],
+  "BullrushSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "BunchgrassSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "Butchery": [
+    "CraftingTable",
+    "HasTableSurface"
+  ],
+  "ButcherySkillBook": [
+    "SkillBooks"
+  ],
+  "ButcherySkillScroll": [
+    "SkillScrolls"
+  ],
+  "ButcheryUpgrade": [
+    "Upgrade"
+  ],
+  "CO2Canister": [
+    "Parts"
+  ],
+  "CamasAshFertilizer": [
+    "Fertilizer"
+  ],
+  "CamasBread": [
+    "Bread",
+    "Food"
+  ],
+  "CamasBulb": [
+    "Crop",
+    "CropSeed",
+    "RawFood",
+    "Vegetable",
+    "Seeds",
+    "Food"
+  ],
+  "CamasBulbBake": [
+    "Food",
+    "BakedVegetable",
+    "BakedFood"
+  ],
+  "CamasMash": [
+    "Food"
+  ],
+  "CamasPaste": [
+    "Food"
+  ],
+  "Camera": [
+    "Tool"
+  ],
+  "Campfire": [
+    "CraftingTable"
+  ],
+  "CampfireAnimalLarge": [
+    "Food"
+  ],
+  "CampfireAnimalMedium": [
+    "Food"
+  ],
+  "CampfireAnimalSmall": [
+    "Food"
+  ],
+  "CampfireAnimalTiny": [
+    "Food"
+  ],
+  "CampfireBeans": [
+    "Food"
+  ],
+  "CampfireBeet": [
+    "Food"
+  ],
+  "CampfireBighorn": [
+    "Food"
+  ],
+  "CampfireBison": [
+    "Food"
+  ],
+  "CampfireCookingBasicUpgrade": [
+    "Upgrade"
+  ],
+  "CampfireCookingUpgrade": [
+    "Upgrade"
+  ],
+  "CampfireDeer": [
+    "Food"
+  ],
+  "CampfireElk": [
+    "Food"
+  ],
+  "CampfireFishLarge": [
+    "Food"
+  ],
+  "CampfireFishMedium": [
+    "Food"
+  ],
+  "CampfireRoast": [
+    "Food"
+  ],
+  "CampfireStew": [
+    "Food"
+  ],
+  "CampfireTacoShell": [
+    "Food"
+  ],
+  "CampfireTurkey": [
+    "Food"
+  ],
+  "CampfireWolf": [
+    "Food"
+  ],
+  "CandleStand": [
+    "Housing"
+  ],
+  "CanvasBoots": [
+    "Clothes"
+  ],
+  "CanvasHat": [
+    "Clothes"
+  ],
+  "CanvasPants": [
+    "Clothes"
+  ],
+  "CanvasShirt": [
+    "Clothes"
+  ],
+  "Capris": [
+    "Clothes"
+  ],
+  "CarbideHelmetLamp": [
+    "Clothes"
+  ],
+  "CarpentryAdvancedUpgrade": [
+    "Upgrade"
+  ],
+  "CarpentryBasicUpgrade": [
+    "Upgrade"
+  ],
+  "CarpentrySkillBook": [
+    "SkillBooks"
+  ],
+  "CarpentrySkillScroll": [
+    "SkillScrolls"
+  ],
+  "CarpentryTable": [
+    "CraftingTable",
+    "HasTableSurface"
+  ],
+  "Cart": [
+    "Vehicles"
+  ],
+  "CastGear": [
+    "Parts"
+  ],
+  "CastIronBed": [
+    "Housing",
+    "Mountable",
+    "CanBeOnRug"
+  ],
+  "CastIronBench": [
+    "Housing",
+    "Mountable"
+  ],
+  "CastIronChair": [
+    "Housing",
+    "Mountable"
+  ],
+  "CastIronPipe": [
+    "Parts"
+  ],
+  "CastIronPlaque": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "CastIronRoyalBed": [
+    "Housing",
+    "Mountable",
+    "CanBeOnRug"
+  ],
+  "CastIronStove": [
+    "CraftingTable"
+  ],
+  "CastIronTable": [
+    "Housing",
+    "Mountable"
+  ],
+  "CedarLatticeSlidingDoor": [
+    "LargeDoor"
+  ],
+  "CedarLog": [
+    "BurnableFuel",
+    "Fuel",
+    "Softwood",
+    "Wood"
+  ],
+  "CedarSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "CeibaLog": [
+    "BurnableFuel",
+    "Fuel",
+    "Hardwood",
+    "Wood"
+  ],
+  "CeibaSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "CeilingCandle": [
+    "Housing"
+  ],
+  "CementKiln": [
+    "CraftingTable"
+  ],
+  "CensusBureau": [
+    "CraftingTable"
+  ],
+  "Chainsaw": [
+    "Tool"
+  ],
+  "Charcoal": [
+    "Coal",
+    "BurnableFuel",
+    "Fuel"
+  ],
+  "CharcoalPowder": [
+    "Pigment"
+  ],
+  "CharcoalSteel": [
+    "Metal"
+  ],
+  "CharredAgave": [
+    "CharredGreen",
+    "Food"
+  ],
+  "CharredBeans": [
+    "CharredVegetable",
+    "Food"
+  ],
+  "CharredBeet": [
+    "CharredVegetable",
+    "Food"
+  ],
+  "CharredCactusFruit": [
+    "CharredFruit",
+    "Food"
+  ],
+  "CharredCamasBulb": [
+    "CharredVegetable",
+    "Food"
+  ],
+  "CharredCane": [
+    "Food"
+  ],
+  "CharredCorn": [
+    "CharredVegetable",
+    "Food"
+  ],
+  "CharredFiddleheads": [
+    "CharredGreen",
+    "Food"
+  ],
+  "CharredFireweedShoots": [
+    "CharredGreen",
+    "Food"
+  ],
+  "CharredFish": [
+    "Food"
+  ],
+  "CharredHeartOfPalm": [
+    "CharredVegetable",
+    "Food"
+  ],
+  "CharredMeat": [
+    "Food"
+  ],
+  "CharredMorsel": [
+    "Food"
+  ],
+  "CharredMushrooms": [
+    "Food",
+    "CharredVegetable"
+  ],
+  "CharredPapaya": [
+    "CharredFruit",
+    "Food"
+  ],
+  "CharredPineapple": [
+    "CharredFruit",
+    "Food"
+  ],
+  "CharredSausage": [
+    "Food"
+  ],
+  "CharredTaro": [
+    "CharredVegetable",
+    "Food"
+  ],
+  "CharredTomato": [
+    "CharredFruit",
+    "Food"
+  ],
+  "CheckeredRug": [
+    "Housing"
+  ],
+  "CheckeredShirt": [
+    "Clothes"
+  ],
+  "ChemistrySkillBook": [
+    "SkillBooks"
+  ],
+  "ChemistrySkillScroll": [
+    "SkillScrolls"
+  ],
+  "ClaimTool": [
+    "Tool"
+  ],
+  "ClassyConcrete": [
+    "Road"
+  ],
+  "ClayBrickWall": [
+    "Concrete"
+  ],
+  "Cloth": [
+    "Fabric"
+  ],
+  "ClothBelt": [
+    "Clothes"
+  ],
+  "ClothCape": [
+    "Clothes"
+  ],
+  "Coal": [
+    "Fuel",
+    "Ore"
+  ],
+  "CoarseStone": [
+    "Parts"
+  ],
+  "Cod": [
+    "Fish",
+    "MediumFish"
+  ],
+  "CombustionEngine": [
+    "Parts"
+  ],
+  "CompositeBirchLumber": [
+    "CompositeLumber",
+    "HardwoodLumber"
+  ],
+  "CompositeBow": [
+    "Tool"
+  ],
+  "CompositeCedarLumber": [
+    "CompositeLumber",
+    "SoftwoodLumber"
+  ],
+  "CompositeCeibaLumber": [
+    "CompositeLumber",
+    "HardwoodLumber"
+  ],
+  "CompositeFiller": [
+    "FertilizerFiller",
+    "Fertilizer"
+  ],
+  "CompositeFirLumber": [
+    "CompositeLumber",
+    "SoftwoodLumber"
+  ],
+  "CompositeJoshuaLumber": [
+    "CompositeLumber"
+  ],
+  "CompositeLumberBench": [
+    "Housing",
+    "Mountable"
+  ],
+  "CompositeLumberChair": [
+    "Housing",
+    "Mountable"
+  ],
+  "CompositeLumberDoor": [
+    "LargeDoor"
+  ],
+  "CompositeLumberDresser": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "CompositeLumberTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "CompositeOakLumber": [
+    "CompositeLumber",
+    "HardwoodLumber"
+  ],
+  "CompositeSaguaroLumber": [
+    "CompositeLumber"
+  ],
+  "CompositeSpruceLumber": [
+    "CompositeLumber"
+  ],
+  "CompositesFactory": [
+    "CraftingTable"
+  ],
+  "CompositesUpgrade": [
+    "Upgrade"
+  ],
+  "Compost": [
+    "NaturalFiber"
+  ],
+  "CompostFertilizer": [
+    "Fertilizer"
+  ],
+  "ConcentratedOre": [
+    "ConcentratedOre"
+  ],
+  "Concrete": [
+    "Concrete"
+  ],
+  "Constitution": [
+    "Settlement"
+  ],
+  "ContextBasedActionsGuide": [
+    "SkillBooks"
+  ],
+  "ContractBoard": [
+    "CraftingTable",
+    "Settlement"
+  ],
+  "CookeinaMushroomSpores": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "CookeinaMushrooms": [
+    "Crop",
+    "Food",
+    "Fungus",
+    "RawFood"
+  ],
+  "CookingSkillBook": [
+    "SkillBooks"
+  ],
+  "CookingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "CookingUpgrade": [
+    "Upgrade"
+  ],
+  "CopperBar": [
+    "Metal"
+  ],
+  "CopperConcentrate": [
+    "ConcentratedOre"
+  ],
+  "CopperHydroxide": [
+    "Pigment"
+  ],
+  "CopperIngot": [
+    "Metal"
+  ],
+  "CopperOre": [
+    "Ore"
+  ],
+  "CopperPlate": [
+    "Parts"
+  ],
+  "CopperWiring": [
+    "Parts"
+  ],
+  "Corn": [
+    "Crop",
+    "Vegetable",
+    "Food",
+    "RawFood"
+  ],
+  "CornFritters": [
+    "Food"
+  ],
+  "CornSeed": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "CornStarch": [
+    "Fat"
+  ],
+  "CorrugatedSteelDoor": [
+    "LargeDoor"
+  ],
+  "CorrugatedSteelFenceDoor": [
+    "LargeDoor"
+  ],
+  "CorrugatedSteelLantern": [
+    "Housing"
+  ],
+  "CorrugatedSteelWindow": [
+    "LargeDoor"
+  ],
+  "Cotton": [
+    "NaturalFiber"
+  ],
+  "CottonCanvas": [
+    "Fabric"
+  ],
+  "CottonFabric": [
+    "Fabric",
+    "Parts"
+  ],
+  "CottonSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "CottonStreamer": [
+    "Housing"
+  ],
+  "CountryFoundation": [
+    "Settlement"
+  ],
+  "Court": [
+    "CraftingTable",
+    "Settlement"
+  ],
+  "CozyPlatformBed": [
+    "Housing",
+    "Mountable"
+  ],
+  "CoyoteCarcass": [
+    "SmallCarcass"
+  ],
+  "Crab": [
+    "Fish",
+    "MediumFish"
+  ],
+  "CrabPot": [
+    "CraftingTable"
+  ],
+  "Crane": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "CreosoteBushSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "CreosoteFlower": [
+    "Petals",
+    "Crop",
+    "Food"
+  ],
+  "CriminiMushroomSpores": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "CriminiMushrooms": [
+    "Crop",
+    "Food",
+    "Fungus",
+    "RawFood"
+  ],
+  "CrispyBacon": [
+    "Food"
+  ],
+  "CrownOfSagebrush": [
+    "Clothes"
+  ],
+  "CrushedBasalt": [
+    "CrushedRock"
+  ],
+  "CrushedCoal": [
+    "Coal",
+    "Fuel",
+    "BurnableFuel"
+  ],
+  "CrushedGneiss": [
+    "CrushedRock"
+  ],
+  "CrushedGranite": [
+    "CrushedRock"
+  ],
+  "CrushedLimestone": [
+    "CrushedRock"
+  ],
+  "CrushedMixedRock": [
+    "CrushedRock"
+  ],
+  "CrushedOreConcentrate": [
+    "ConcentratedOre"
+  ],
+  "CrushedSandstone": [
+    "CrushedRock",
+    "Silica"
+  ],
+  "CrushedShale": [
+    "CrushedRock"
+  ],
+  "CulinaryResearchPaperAdvanced": [
+    "AdvancedResearch",
+    "Research"
+  ],
+  "CulinaryResearchPaperBasic": [
+    "BasicResearch",
+    "Research"
+  ],
+  "CulinaryResearchPaperModern": [
+    "ModernResearch",
+    "Research"
+  ],
+  "CurrencyExchange": [
+    "CraftingTable",
+    "Settlement"
+  ],
+  "CuttingEdgeCookingSkillBook": [
+    "SkillBooks"
+  ],
+  "CuttingEdgeCookingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "CuttingEdgeCookingUpgrade": [
+    "Upgrade"
+  ],
+  "CyanPowder": [
+    "Pigment"
+  ],
+  "DeerCarcass": [
+    "MediumCarcass",
+    "MediumLeatherCarcass"
+  ],
+  "DeerMount": [
+    "Housing"
+  ],
+  "DemocraticElection": [
+    "Settlement"
+  ],
+  "Demographics": [
+    "Settlement"
+  ],
+  "Denim": [
+    "Fabric"
+  ],
+  "DendrologyResearchPaperAdvanced": [
+    "AdvancedResearch",
+    "Research"
+  ],
+  "DendrologyResearchPaperBasic": [
+    "BasicResearch",
+    "Research"
+  ],
+  "DendrologyResearchPaperModern": [
+    "ModernResearch",
+    "Research"
+  ],
+  "DerpyHat": [
+    "Clothes"
+  ],
+  "DirtRamp": [
+    "Road"
+  ],
+  "DoorFrame": [
+    "LargeDoor"
+  ],
+  "DoubleHungWindow": [
+    "LargeDoor"
+  ],
+  "DriedFish": [
+    "Food"
+  ],
+  "DriedMeat": [
+    "Food"
+  ],
+  "DwarfWillowSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "DynamicBoard": [
+    "Housing",
+    "Settlement"
+  ],
+  "EcoPoster": [
+    "Housing"
+  ],
+  "EgyptianCanoe": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "ElectricMotor": [
+    "Parts"
+  ],
+  "ElectricalBoard": [
+    "Housing"
+  ],
+  "ElectricalSkillBook": [
+    "SkillBooks"
+  ],
+  "ElectricalSkillScroll": [
+    "SkillScrolls"
+  ],
+  "ElectronicsAssembly": [
+    "CraftingTable"
+  ],
+  "ElectronicsFactory": [
+    "CraftingTable"
+  ],
+  "ElectronicsSkillBook": [
+    "SkillBooks"
+  ],
+  "ElectronicsSkillScroll": [
+    "SkillScrolls"
+  ],
+  "ElectronicsUpgrade": [
+    "Upgrade"
+  ],
+  "ElevatorMotor": [
+    "Parts"
+  ],
+  "ElevatorShaft": [
+    "LargeDoor"
+  ],
+  "ElkCarcass": [
+    "MediumCarcass",
+    "MediumLeatherCarcass"
+  ],
+  "ElkMount": [
+    "Housing"
+  ],
+  "ElkTaco": [
+    "Food"
+  ],
+  "ElkWellington": [
+    "Food"
+  ],
+  "Ember": [
+    "Fuel"
+  ],
+  "EmbroideredFabric": [
+    "Fabric"
+  ],
+  "EmptyCanister": [
+    "Parts"
+  ],
+  "EngineeringResearchPaperAdvanced": [
+    "AdvancedResearch",
+    "Research"
+  ],
+  "EngineeringResearchPaperModern": [
+    "ModernResearch",
+    "Research"
+  ],
+  "EnterpriseBoots": [
+    "Clothes"
+  ],
+  "EnterpriseChefHat": [
+    "Clothes"
+  ],
+  "EnterpriseChefPants": [
+    "Clothes"
+  ],
+  "EnterpriseChefShirt": [
+    "Clothes"
+  ],
+  "EnterprisePants": [
+    "Clothes"
+  ],
+  "EnterpriseShirt": [
+    "Clothes"
+  ],
+  "EnterpriseTailorCoat": [
+    "Clothes"
+  ],
+  "EnterpriseTailorHat": [
+    "Clothes"
+  ],
+  "EnterpriseTailorPants": [
+    "Clothes"
+  ],
+  "EnterpriseTailorShirt": [
+    "Clothes"
+  ],
+  "EnterpriseWorkBackpack": [
+    "Clothes"
+  ],
+  "EnterpriseWorkBoots": [
+    "Clothes"
+  ],
+  "EnterpriseWorkShirt": [
+    "Clothes"
+  ],
+  "Evaporator": [
+    "Parts"
+  ],
+  "Excavator": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "ExecutiveOffice": [
+    "Settlement"
+  ],
+  "ExplorerBoots": [
+    "Clothes"
+  ],
+  "ExplorerGloves": [
+    "Clothes"
+  ],
+  "ExplorerHat": [
+    "Clothes"
+  ],
+  "ExplorerPants": [
+    "Clothes"
+  ],
+  "ExplorerShirt": [
+    "Clothes"
+  ],
+  "FabulousPants": [
+    "Clothes"
+  ],
+  "FancyRug": [
+    "Housing"
+  ],
+  "FantasticForestPizza": [
+    "Food"
+  ],
+  "FarEastLumber": [
+    "Lumber",
+    "Fuel",
+    "BurnableFuel"
+  ],
+  "FarmPlot": [
+    "CraftingTable"
+  ],
+  "FarmersTable": [
+    "CraftingTable",
+    "CanBeOnRug",
+    "HasTableSurface"
+  ],
+  "FarmingSkillBook": [
+    "SkillBooks"
+  ],
+  "FarmingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "FarmingUpgrade": [
+    "Upgrade"
+  ],
+  "Fat": [
+    "Fat"
+  ],
+  "FederationFoundation": [
+    "Settlement"
+  ],
+  "FernCampfireSalad": [
+    "CampfireSalad",
+    "Food"
+  ],
+  "FernSpore": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "FertilizersSkillBook": [
+    "SkillBooks"
+  ],
+  "FertilizersSkillScroll": [
+    "SkillScrolls"
+  ],
+  "FertilizersUpgrade": [
+    "Upgrade"
+  ],
+  "FiberFiller": [
+    "FertilizerFiller",
+    "Fertilizer"
+  ],
+  "Fiberglass": [
+    "Parts"
+  ],
+  "Fiddleheads": [
+    "Greens",
+    "Crop",
+    "RawFood",
+    "Food"
+  ],
+  "FieldCampfireStew": [
+    "Food"
+  ],
+  "FilmyFernSpore": [
+    "Food",
+    "Seeds"
+  ],
+  "FirLog": [
+    "BurnableFuel",
+    "Fuel",
+    "Softwood",
+    "Wood"
+  ],
+  "FirSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "FireweedSalad": [
+    "Food"
+  ],
+  "FireweedSeed": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "FireweedShoots": [
+    "Greens",
+    "Crop",
+    "Food",
+    "RawFood"
+  ],
+  "FishNChips": [
+    "Food"
+  ],
+  "FishStew": [
+    "Food"
+  ],
+  "FishTrapDataBoard": [
+    "Housing"
+  ],
+  "Fishery": [
+    "CraftingTable",
+    "CanBeOnRug"
+  ],
+  "FlatSteelDoor": [
+    "LargeDoor"
+  ],
+  "Flatbread": [
+    "Food"
+  ],
+  "FlaxSeed": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "FlaxTrawlerNet": [
+    "Tool"
+  ],
+  "FlaxseedOil": [
+    "Fat",
+    "Fuel",
+    "Oil",
+    "Food"
+  ],
+  "Flour": [
+    "Food"
+  ],
+  "ForgeBoard": [
+    "Housing"
+  ],
+  "FoxCarcass": [
+    "SmallCarcass"
+  ],
+  "FramedGlassDoor": [
+    "LargeDoor"
+  ],
+  "FriedCamas": [
+    "Food",
+    "FriedVegetable"
+  ],
+  "FriedFiddleheads": [
+    "Food",
+    "FriedVegetable"
+  ],
+  "FriedHareHaunches": [
+    "Food"
+  ],
+  "FriedHeartsOfPalm": [
+    "Food",
+    "FriedVegetable"
+  ],
+  "FriedTaro": [
+    "Food",
+    "FriedVegetable"
+  ],
+  "FriedTomatoes": [
+    "Food",
+    "FriedVegetable"
+  ],
+  "FruitMuffin": [
+    "Food"
+  ],
+  "FruitSalad": [
+    "Salad",
+    "Food"
+  ],
+  "FruitTart": [
+    "Food"
+  ],
+  "Fryer": [
+    "CraftingTable"
+  ],
+  "Fulton": [
+    "Fuel"
+  ],
+  "FurPelt": [
+    "AnimalSkin"
+  ],
+  "GalaxyDiverShirt": [
+    "Clothes"
+  ],
+  "GalleyKitchen": [
+    "CraftingTable"
+  ],
+  "GardenBoots": [
+    "Clothes"
+  ],
+  "GardenGloves": [
+    "Clothes"
+  ],
+  "Garbage": [
+    "NaturalFiber"
+  ],
+  "Gasoline": [
+    "LiquidFuel",
+    "Fuel"
+  ],
+  "GathererBoots": [
+    "Clothes"
+  ],
+  "GathererGloves": [
+    "Clothes"
+  ],
+  "GathererHelmet": [
+    "Clothes"
+  ],
+  "GathererShirt": [
+    "Clothes"
+  ],
+  "GathererShoes": [
+    "Clothes"
+  ],
+  "GatheringAdvancedUpgrade": [
+    "Upgrade"
+  ],
+  "GatheringBasicUpgrade": [
+    "Upgrade"
+  ],
+  "GatheringResearchPaperBasic": [
+    "BasicResearch",
+    "Research"
+  ],
+  "Gearbox": [
+    "Parts"
+  ],
+  "GeologyResearchPaperAdvanced": [
+    "AdvancedResearch",
+    "Research"
+  ],
+  "GeologyResearchPaperBasic": [
+    "BasicResearch",
+    "Research"
+  ],
+  "GeologyResearchPaperModern": [
+    "ModernResearch",
+    "Research"
+  ],
+  "GiantCactusFruit": [
+    "Fruit",
+    "Crop",
+    "RawFood",
+    "Food"
+  ],
+  "Glassworks": [
+    "CraftingTable",
+    "CanBeOnRug"
+  ],
+  "GlassworkingAdvancedUpgrade": [
+    "Upgrade"
+  ],
+  "GlassworkingModernUpgrade": [
+    "Upgrade"
+  ],
+  "GlassworkingSkillBook": [
+    "SkillBooks"
+  ],
+  "GlassworkingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "Gneiss": [
+    "Rock"
+  ],
+  "GoatMount": [
+    "Housing"
+  ],
+  "Goggles": [
+    "Clothes"
+  ],
+  "GoldBar": [
+    "Metal"
+  ],
+  "GoldConcentrate": [
+    "ConcentratedOre"
+  ],
+  "GoldIngot": [
+    "Metal"
+  ],
+  "GoldOre": [
+    "Ore"
+  ],
+  "GoodBackpack": [
+    "Clothes"
+  ],
+  "Government": [
+    "Settlement"
+  ],
+  "GovernmentOffice": [
+    "Settlement"
+  ],
+  "Granite": [
+    "Rock"
+  ],
+  "GrassSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "GrayDye": [
+    "Pigment"
+  ],
+  "GrayVase": [
+    "Housing"
+  ],
+  "GreasyTransmission": [
+    "Parts"
+  ],
+  "Grindstone": [
+    "CraftingTable"
+  ],
+  "Hammer": [
+    "Tool"
+  ],
+  "HandPlow": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "HandheldCamera": [
+    "Tool"
+  ],
+  "HangingWoodenSign": [
+    "Housing"
+  ],
+  "HardwoodBoard": [
+    "WoodBoard",
+    "Fuel",
+    "BurnableFuel"
+  ],
+  "HardwoodHewnLog": [
+    "HewnLog",
+    "BurnableFuel",
+    "Fuel"
+  ],
+  "HardwoodLumber": [
+    "Lumber",
+    "Fuel",
+    "BurnableFuel"
+  ],
+  "HardwoodLumberBench": [
+    "Housing",
+    "Mountable"
+  ],
+  "HardwoodLumberChair": [
+    "Housing",
+    "Mountable"
+  ],
+  "HardwoodLumberTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "HareCarcass": [
+    "TinyCarcass"
+  ],
+  "HareStew": [
+    "Food"
+  ],
+  "HeadLamp": [
+    "Clothes"
+  ],
+  "HeartOfPalm": [
+    "Vegetable",
+    "Crop",
+    "RawFood",
+    "Food"
+  ],
+  "HeartyHometownPizza": [
+    "Food"
+  ],
+  "HeliconiaSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "Hemp": [
+    "NaturalFiber"
+  ],
+  "HempMooringRope": [
+    "Parts"
+  ],
+  "Henley": [
+    "Clothes"
+  ],
+  "HewnBench": [
+    "Housing",
+    "Mountable"
+  ],
+  "HewnChair": [
+    "Housing",
+    "Mountable"
+  ],
+  "HewnDoor": [
+    "LargeDoor"
+  ],
+  "HewnDresser": [
+    "Housing",
+    "CanBeOnRug"
+  ],
+  "HewnLog": [
+    "HewnLog",
+    "Fuel",
+    "BurnableFuel"
+  ],
+  "HewnLogDoor": [
+    "LargeDoor"
+  ],
+  "HewnNightstand": [
+    "Housing",
+    "CanBeOnRug"
+  ],
+  "HewnSoftwoodDoor": [
+    "LargeDoor"
+  ],
+  "HewnTable": [
+    "HasTableSurface",
+    "Housing"
+  ],
+  "HideAshFertilizer": [
+    "Fertilizer"
+  ],
+  "HomesteadClaims": [
+    "Settlement"
+  ],
+  "Hosomaki": [
+    "Food"
+  ],
+  "Huckleberries": [
+    "Fruit",
+    "Food",
+    "RawFood",
+    "Crop"
+  ],
+  "HuckleberryFritter": [
+    "Food"
+  ],
+  "HuckleberryMuffin": [
+    "Food"
+  ],
+  "HuckleberryPie": [
+    "Food"
+  ],
+  "HuckleberrySeed": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "HuntingSkillBook": [
+    "SkillBooks"
+  ],
+  "HuntingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "HuntingUpgrade": [
+    "Upgrade"
+  ],
+  "ImmigrationDesk": [
+    "Settlement"
+  ],
+  "ImportContracts": [
+    "Settlement"
+  ],
+  "ImposingAncientVault": [
+    "Housing"
+  ],
+  "IndustrialBarge": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "IndustrySkillBook": [
+    "SkillBooks"
+  ],
+  "IndustrySkillScroll": [
+    "SkillScrolls"
+  ],
+  "IndustryUpgrade": [
+    "Upgrade"
+  ],
+  "InfusedOil": [
+    "Food"
+  ],
+  "IronAxe": [
+    "Tool"
+  ],
+  "IronBar": [
+    "Metal"
+  ],
+  "IronConcentrate": [
+    "ConcentratedOre"
+  ],
+  "IronGear": [
+    "Parts"
+  ],
+  "IronHammer": [
+    "Tool"
+  ],
+  "IronHoe": [
+    "Tool"
+  ],
+  "IronHullSheet": [
+    "Parts"
+  ],
+  "IronIngot": [
+    "Metal"
+  ],
+  "IronLightPost": [
+    "Housing"
+  ],
+  "IronMachete": [
+    "Tool"
+  ],
+  "IronMineCart": [
+    "Vehicles"
+  ],
+  "IronOre": [
+    "Ore"
+  ],
+  "IronOxide": [
+    "Pigment"
+  ],
+  "IronPaintSprayer": [
+    "Painter",
+    "Tool"
+  ],
+  "IronPickaxe": [
+    "Tool"
+  ],
+  "IronPlate": [
+    "Parts"
+  ],
+  "IronPlow": [
+    "Parts"
+  ],
+  "IronRoadTool": [
+    "Tool"
+  ],
+  "IronRockDrill": [
+    "Tool"
+  ],
+  "IronSawBlade": [
+    "Parts"
+  ],
+  "IronShovel": [
+    "Tool"
+  ],
+  "IronSickle": [
+    "Tool"
+  ],
+  "IronWheel": [
+    "Parts"
+  ],
+  "JaguarCarcass": [
+    "MediumCarcass",
+    "MediumLeatherCarcass"
+  ],
+  "JaguarMount": [
+    "Housing"
+  ],
+  "Jerky": [
+    "Food"
+  ],
+  "JointfirSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "JoshuaLog": [
+    "BurnableFuel",
+    "Fuel",
+    "Wood"
+  ],
+  "JoshuaSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "JungleCampfireSalad": [
+    "CampfireSalad",
+    "Food"
+  ],
+  "JungleCampfireStew": [
+    "Food"
+  ],
+  "Kelp": [
+    "NaturalFiber",
+    "Crop"
+  ],
+  "Kiln": [
+    "CraftingTable"
+  ],
+  "KingFernSpore": [
+    "Food",
+    "Seeds"
+  ],
+  "Kitchen": [
+    "CraftingTable",
+    "HasTableSurface"
+  ],
+  "Laboratories": [
+    "AdvancedResearch",
+    "CraftingTable"
+  ],
+  "Laboratory": [
+    "CraftingTable"
+  ],
+  "LargeBathMat": [
+    "Housing"
+  ],
+  "LargeCanoe": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "LargeCorrugatedSteelDoor": [
+    "LargeDoor"
+  ],
+  "LargeCourt": [
+    "Settlement"
+  ],
+  "LargeFestivePaperLantern": [
+    "Housing"
+  ],
+  "LargeIronBannerSign": [
+    "Housing"
+  ],
+  "LargeLumberDoor": [
+    "LargeDoor"
+  ],
+  "LargeMetalMountedCamera": [
+    "Housing"
+  ],
+  "LargeNylonBanner": [
+    "Housing"
+  ],
+  "LargeNylonBuntingGreen": [
+    "Housing"
+  ],
+  "LargeNylonBuntingPurple": [
+    "Housing"
+  ],
+  "LargeNylonBuntingYellow": [
+    "Housing"
+  ],
+  "LargePaperLantern": [
+    "Housing"
+  ],
+  "LargeSteelBannerSign": [
+    "Housing"
+  ],
+  "LargeWindowedLumberDoor": [
+    "LargeDoor"
+  ],
+  "Lathe": [
+    "CraftingTable"
+  ],
+  "LatticeMushroomSpores": [
+    "Food",
+    "Seeds"
+  ],
+  "Latrine": [
+    "Housing",
+    "Mountable"
+  ],
+  "LeavenedDough": [
+    "Food"
+  ],
+  "LeatherHide": [
+    "AnimalSkin"
+  ],
+  "Library": [
+    "CraftingTable"
+  ],
+  "LightBackpack": [
+    "Clothes"
+  ],
+  "LightBulb": [
+    "Parts"
+  ],
+  "LighthouseLamp": [
+    "Housing"
+  ],
+  "Limestone": [
+    "Rock"
+  ],
+  "LimestoneBisonStatue": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "LimestoneOtterStatue": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "LimestoneOwlStatue": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "LimestoneWolfStatue": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "Linen": [
+    "Fabric"
+  ],
+  "LinenCanvas": [
+    "Fabric"
+  ],
+  "LinenFabric": [
+    "Fabric",
+    "Parts"
+  ],
+  "LogRug": [
+    "Housing"
+  ],
+  "LoggingAdvancedUpgrade": [
+    "Upgrade"
+  ],
+  "LoggingBasicUpgrade": [
+    "Upgrade"
+  ],
+  "LoggingSkillBook": [
+    "SkillBooks"
+  ],
+  "LoggingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "Loom": [
+    "CraftingTable"
+  ],
+  "LoomedFabric": [
+    "Fabric"
+  ],
+  "LowTopShoes": [
+    "Clothes"
+  ],
+  "Lumber": [
+    "Lumber",
+    "Fuel",
+    "BurnableFuel"
+  ],
+  "LumberBench": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "LumberChair": [
+    "Housing",
+    "Mountable"
+  ],
+  "LumberDoor": [
+    "LargeDoor"
+  ],
+  "LumberDresser": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "LumberTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "LupineSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "Macaroons": [
+    "Food"
+  ],
+  "Machete": [
+    "Tool"
+  ],
+  "MachinistTable": [
+    "CraftingTable",
+    "HasTableSurface"
+  ],
+  "Maltodextrin": [
+    "Fat"
+  ],
+  "MarbleRollingPin": [
+    "Housing"
+  ],
+  "MarinerBoots": [
+    "Clothes"
+  ],
+  "MarinerHat": [
+    "Clothes"
+  ],
+  "MarinerPants": [
+    "Clothes"
+  ],
+  "MarinerShirt": [
+    "Clothes"
+  ],
+  "MasonryAdvancedUpgrade": [
+    "Upgrade"
+  ],
+  "MasonryBasicUpgrade": [
+    "Upgrade"
+  ],
+  "MasonrySkillBook": [
+    "SkillBooks"
+  ],
+  "MasonrySkillScroll": [
+    "SkillScrolls"
+  ],
+  "MasonryTable": [
+    "CraftingTable",
+    "HasTableSurface",
+    "CanBeOnRug"
+  ],
+  "MeatPie": [
+    "Food"
+  ],
+  "MeatStock": [
+    "Food"
+  ],
+  "MechanicsAdvancedUpgrade": [
+    "Upgrade"
+  ],
+  "MechanicsModernUpgrade": [
+    "Upgrade"
+  ],
+  "MechanicsSkillBook": [
+    "SkillBooks"
+  ],
+  "MechanicsSkillScroll": [
+    "SkillScrolls"
+  ],
+  "MediumFishingTrawler": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "MediumShipyard": [
+    "CraftingTable"
+  ],
+  "MelonSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "Mercury": [
+    "NaturalFiber"
+  ],
+  "MetalBookshelf": [
+    "Housing"
+  ],
+  "MetalShopCart": [
+    "Vehicles"
+  ],
+  "MetallurgyResearchPaperAdvanced": [
+    "AdvancedResearch",
+    "Research"
+  ],
+  "MetallurgyResearchPaperBasic": [
+    "BasicResearch",
+    "Research"
+  ],
+  "MetallurgyResearchPaperModern": [
+    "ModernResearch",
+    "Research"
+  ],
+  "Milk": [
+    "Food"
+  ],
+  "Mill": [
+    "CanBeOnRug",
+    "CraftingTable",
+    "Housing"
+  ],
+  "MillingSkillBook": [
+    "SkillBooks"
+  ],
+  "MillingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "MillingUpgrade": [
+    "Upgrade"
+  ],
+  "MillionairesSalad": [
+    "Food"
+  ],
+  "MinerBoots": [
+    "Clothes"
+  ],
+  "MinerGlasses": [
+    "Clothes"
+  ],
+  "MinerGloves": [
+    "Clothes"
+  ],
+  "MinerHat": [
+    "Clothes"
+  ],
+  "MinerHelmet": [
+    "Clothes"
+  ],
+  "MinerOveralls": [
+    "Clothes"
+  ],
+  "MinerShirt": [
+    "Clothes"
+  ],
+  "MiningAdvancedUpgrade": [
+    "Upgrade"
+  ],
+  "MiningBasicUpgrade": [
+    "Upgrade"
+  ],
+  "MiningModernUpgrade": [
+    "Upgrade"
+  ],
+  "MiningSkillBook": [
+    "SkillBooks"
+  ],
+  "MiningSkillScroll": [
+    "SkillScrolls"
+  ],
+  "Mint": [
+    "CraftingTable"
+  ],
+  "MixedFruitSalad": [
+    "Food"
+  ],
+  "MixedSalad": [
+    "Food"
+  ],
+  "MixedVegetableMedley": [
+    "Food"
+  ],
+  "ModernAxe": [
+    "Tool"
+  ],
+  "ModernDoubleStreetLight": [
+    "Housing"
+  ],
+  "ModernHammer": [
+    "Tool"
+  ],
+  "ModernHoe": [
+    "Tool"
+  ],
+  "ModernHotdog": [
+    "Food"
+  ],
+  "ModernMachete": [
+    "Tool"
+  ],
+  "ModernPaintSprayer": [
+    "Painter",
+    "Tool"
+  ],
+  "ModernPickaxe": [
+    "Tool"
+  ],
+  "ModernRockDrill": [
+    "Tool"
+  ],
+  "ModernScythe": [
+    "Tool"
+  ],
+  "ModernShovel": [
+    "Tool"
+  ],
+  "ModernStreetLight": [
+    "Housing"
+  ],
+  "ModernUpgrade1": [
+    "ModernUpgrade",
+    "Upgrade"
+  ],
+  "ModernUpgrade2": [
+    "ModernUpgrade",
+    "Upgrade"
+  ],
+  "ModernUpgrade3": [
+    "ModernUpgrade",
+    "Upgrade"
+  ],
+  "ModernUpgrade4": [
+    "ModernUpgrade",
+    "Upgrade"
+  ],
+  "ModernUpgradeLvl1": [
+    "ModernUpgrade",
+    "Upgrade"
+  ],
+  "ModernUpgradeLvl2": [
+    "ModernUpgrade",
+    "Upgrade"
+  ],
+  "ModernUpgradeLvl3": [
+    "ModernUpgrade",
+    "Upgrade"
+  ],
+  "MoonJellyfish": [
+    "Fish",
+    "SmallFish"
+  ],
+  "MortaredGranite": [
+    "MortaredStone"
+  ],
+  "MortaredGraniteBench": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "MortaredGraniteChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "MortaredGraniteFireplace": [
+    "Housing"
+  ],
+  "MortaredGraniteTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "MortaredLimestone": [
+    "MortaredStone"
+  ],
+  "MortaredLimestoneBench": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "MortaredLimestoneChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "MortaredLimestoneFireplace": [
+    "Housing"
+  ],
+  "MortaredLimestoneTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "MortaredSandstone": [
+    "MortaredStone"
+  ],
+  "MortaredSandstoneBench": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "MortaredSandstoneChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "MortaredSandstoneFireplace": [
+    "Housing"
+  ],
+  "MortaredSandstoneTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "MortaredStone": [
+    "MortaredStone"
+  ],
+  "MortaredStoneBench": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "MortaredStoneChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "MortaredStoneFireplace": [
+    "Housing"
+  ],
+  "MortaredStoneTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "MountainGoatCarcass": [
+    "MediumCarcass",
+    "MediumWoolyCarcass"
+  ],
+  "MountedCamera": [
+    "Housing"
+  ],
+  "NitricAcid": [
+    "Explosives"
+  ],
+  "NorseCanoe": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "NylonFabric": [
+    "Fabric"
+  ],
+  "NylonFutonBed": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "NylonFutonCouch": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "NylonTrawlerNet": [
+    "Tool"
+  ],
+  "OakLog": [
+    "BurnableFuel",
+    "Fuel",
+    "Hardwood",
+    "Wood"
+  ],
+  "OakSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "OceanSpraySeed": [
+    "Food",
+    "Seeds"
+  ],
+  "OfficeChair": [
+    "Housing",
+    "Mountable"
+  ],
+  "Oil": [
+    "Fat",
+    "Fuel",
+    "Oil",
+    "Food"
+  ],
+  "OilDrillingSkillBook": [
+    "SkillBooks"
+  ],
+  "OilDrillingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "OilRefinery": [
+    "CraftingTable"
+  ],
+  "OldGrowthRedwood": [
+    "Wood"
+  ],
+  "OrangeDye": [
+    "Pigment"
+  ],
+  "OrangeVase": [
+    "Housing"
+  ],
+  "Orchid": [
+    "Petals",
+    "Crop",
+    "Food"
+  ],
+  "OrchidSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "OrnateCastIronPlaque": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "OrnateGoldFrameLandscape": [
+    "Housing"
+  ],
+  "OrnateGoldFramePortrait": [
+    "Housing"
+  ],
+  "OrnateGoldFrameSquare": [
+    "Housing"
+  ],
+  "OrnateGoldFrameTall": [
+    "Housing"
+  ],
+  "OrnateGoldFrameWide": [
+    "Housing"
+  ],
+  "OrnateIronFrameLandscape": [
+    "Housing"
+  ],
+  "OrnateIronFramePortrait": [
+    "Housing"
+  ],
+  "OrnateIronFrameSquare": [
+    "Housing"
+  ],
+  "OrnateIronFrameTall": [
+    "Housing"
+  ],
+  "OrnateIronFrameWide": [
+    "Housing"
+  ],
+  "OrnateStonePlaque": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "OrnateWoodPlaque": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "OrnateWoodenFrameLandscape": [
+    "Housing"
+  ],
+  "OrnateWoodenFramePortrait": [
+    "Housing"
+  ],
+  "OrnateWoodenFrameSquare": [
+    "Housing"
+  ],
+  "OrnateWoodenFrameTall": [
+    "Housing"
+  ],
+  "OrnateWoodenFrameWide": [
+    "Housing"
+  ],
+  "OtterCarcass": [
+    "SmallCarcass",
+    "TinyCarcass"
+  ],
+  "OutpostTable": [
+    "CraftingTable"
+  ],
+  "PGA Shirt": [
+    "Clothes"
+  ],
+  "PacificSardine": [
+    "Fish"
+  ],
+  "PaddedChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "PalmLog": [
+    "BurnableFuel",
+    "Fuel",
+    "Wood"
+  ],
+  "PalmSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "Pancakes": [
+    "Food"
+  ],
+  "Paper": [
+    "NaturalFiber"
+  ],
+  "PaperMillingSkillBook": [
+    "SkillBooks"
+  ],
+  "PaperMillingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "PaperMillingUpgrade": [
+    "Upgrade"
+  ],
+  "Papaya": [
+    "Fruit",
+    "Crop",
+    "RawFood",
+    "Food"
+  ],
+  "PapayaSeed": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "PastryDough": [
+    "Food"
+  ],
+  "PeasantHair": [
+    "Clothes"
+  ],
+  "PerfectMacarons": [
+    "Food"
+  ],
+  "PeriodicTablePoster": [
+    "Housing"
+  ],
+  "PhadThai": [
+    "Food"
+  ],
+  "PhoSoup": [
+    "Food"
+  ],
+  "PhosphateFertilizer": [
+    "Fertilizer"
+  ],
+  "Pickaxe": [
+    "Tool"
+  ],
+  "PickledFood": [
+    "Food"
+  ],
+  "Pineapple": [
+    "Fruit",
+    "Crop",
+    "Food",
+    "RawFood"
+  ],
+  "PineappleFriendRice": [
+    "Food"
+  ],
+  "PineappleSeed": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "PinkDye": [
+    "Pigment"
+  ],
+  "PinkVase": [
+    "Housing"
+  ],
+  "Pirozhok": [
+    "Food"
+  ],
+  "Piston": [
+    "Parts"
+  ],
+  "PlantFibers": [
+    "NaturalFiber",
+    "Fuel",
+    "BurnableFuel",
+    "Crop"
+  ],
+  "PlantVase": [
+    "Housing"
+  ],
+  "PlanterPotRound": [
+    "Housing"
+  ],
+  "PlanterPotSquare": [
+    "Housing"
+  ],
+  "Plastic": [
+    "Parts"
+  ],
+  "PlasticOutdoorBench": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "PlasticOutdoorChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "PlasticOutdoorTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "PlasticWindowPlanter": [
+    "Housing"
+  ],
+  "PlayingInstrumentsBoard": [
+    "Housing"
+  ],
+  "PortableSteamEngine": [
+    "Parts"
+  ],
+  "PotterySkillBook": [
+    "SkillBooks"
+  ],
+  "PotterySkillScroll": [
+    "SkillScrolls"
+  ],
+  "PotteryTable": [
+    "CraftingTable",
+    "HasTableSurface",
+    "CanBeOnRug"
+  ],
+  "Poultry": [
+    "Food"
+  ],
+  "PoweredCart": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "PrairieDogCarcass": [
+    "TinyCarcass",
+    "TinyLeatherCarcass"
+  ],
+  "PreparedMeat": [
+    "Food"
+  ],
+  "PreservesJarBoard": [
+    "Housing"
+  ],
+  "PricklyPearFruit": [
+    "Fruit",
+    "Crop",
+    "Food",
+    "RawFood"
+  ],
+  "PricklyPearSeed": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "PrimeCut": [
+    "Food"
+  ],
+  "PrintMediaPoster": [
+    "Housing"
+  ],
+  "PrintingPress": [
+    "CraftingTable"
+  ],
+  "PropagandaBoard": [
+    "Housing"
+  ],
+  "PropagandaPosters": [
+    "Housing"
+  ],
+  "PulpFiller": [
+    "FertilizerFiller",
+    "Fertilizer"
+  ],
+  "PumpJack": [
+    "CraftingTable"
+  ],
+  "Pumpkin": [
+    "Crop",
+    "Fruit",
+    "RawFood",
+    "Food"
+  ],
+  "PumpkinSeed": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "PurpleDye": [
+    "Pigment"
+  ],
+  "PurpleVase": [
+    "Housing"
+  ],
+  "RainforestFruitSalad": [
+    "Food"
+  ],
+  "RainforestSalad": [
+    "Food"
+  ],
+  "RawBacon": [
+    "Food"
+  ],
+  "RawRoast": [
+    "Food"
+  ],
+  "RawSausage": [
+    "Food"
+  ],
+  "RecurveBow": [
+    "Tool"
+  ],
+  "RedDye": [
+    "Pigment"
+  ],
+  "RedVase": [
+    "Housing"
+  ],
+  "RedwoodLog": [
+    "BurnableFuel",
+    "Fuel",
+    "Softwood",
+    "Wood"
+  ],
+  "RedwoodSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "RedwoodsPoster": [
+    "Housing"
+  ],
+  "Refrigerator": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "Registrar": [
+    "CraftingTable",
+    "Settlement"
+  ],
+  "ReinforcedConcrete": [
+    "Concrete"
+  ],
+  "RemoteDetonator": [
+    "Tool"
+  ],
+  "ResearchTable": [
+    "CraftingTable"
+  ],
+  "ResourceTags": [
+    "Settlement"
+  ],
+  "Rice": [
+    "Crop",
+    "CropSeed",
+    "Grain",
+    "RawFood",
+    "Seeds",
+    "Food"
+  ],
+  "RiceFlour": [
+    "Food"
+  ],
+  "RiceMortar": [
+    "Food"
+  ],
+  "RiceNoodles": [
+    "Food"
+  ],
+  "RiceSludge": [
+    "Food"
+  ],
+  "RoadTool": [
+    "Tool"
+  ],
+  "RoastPumpkin": [
+    "Food"
+  ],
+  "RoboticAssemblyLine": [
+    "CraftingTable"
+  ],
+  "RockDrill": [
+    "Tool"
+  ],
+  "RockerBox": [
+    "CraftingTable"
+  ],
+  "RolledRugs": [
+    "Housing"
+  ],
+  "RollingMill": [
+    "CraftingTable"
+  ],
+  "RootCampfireSalad": [
+    "CampfireSalad",
+    "Food"
+  ],
+  "RootCampfireStew": [
+    "Food"
+  ],
+  "RubberWheel": [
+    "Parts"
+  ],
+  "RugLarge": [
+    "Housing"
+  ],
+  "RugMedium": [
+    "Housing"
+  ],
+  "RugSmall": [
+    "Housing"
+  ],
+  "RunningShoes": [
+    "Clothes"
+  ],
+  "RusticWindowPlanter": [
+    "Housing"
+  ],
+  "SaguaroRib": [
+    "BurnableFuel",
+    "Fuel",
+    "Wood"
+  ],
+  "SaguaroSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "Salmon": [
+    "Fish",
+    "MediumFish"
+  ],
+  "SaltBasket": [
+    "Housing"
+  ],
+  "Sandals": [
+    "Clothes"
+  ],
+  "Sandstone": [
+    "Rock"
+  ],
+  "Sausages": [
+    "Food"
+  ],
+  "SawBoards": [
+    "Housing"
+  ],
+  "Sawmill": [
+    "CraftingTable"
+  ],
+  "SaxifrageSalad": [
+    "Food"
+  ],
+  "SaxifrageSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "Scarecrow": [
+    "Housing"
+  ],
+  "ScrapMeat": [
+    "Food"
+  ],
+  "ScreeningMachine": [
+    "CraftingTable"
+  ],
+  "Screw": [
+    "Parts"
+  ],
+  "Scrubber": [
+    "Parts"
+  ],
+  "SculptorsTable": [
+    "CraftingTable"
+  ],
+  "Seagrass": [
+    "Greens"
+  ],
+  "SeagrassSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "SearedMeat": [
+    "Food"
+  ],
+  "SeededCamasRoll": [
+    "Food"
+  ],
+  "SelfImprovement": [
+    "SkillBooks"
+  ],
+  "SensorBasedBeltSorter": [
+    "CraftingTable"
+  ],
+  "SensuousSeaPizza": [
+    "Food"
+  ],
+  "Servo": [
+    "Parts"
+  ],
+  "SettlementCraftingTable": [
+    "Settlement"
+  ],
+  "SewingSkillBook": [
+    "SkillBooks"
+  ],
+  "SewingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "Shale": [
+    "Rock"
+  ],
+  "Shaper": [
+    "CraftingTable"
+  ],
+  "SharkFilletSoup": [
+    "Food"
+  ],
+  "ShavedIce": [
+    "Food"
+  ],
+  "SheepCarcass": [
+    "MediumCarcass",
+    "MediumWoolyCarcass"
+  ],
+  "SheepMount": [
+    "Housing"
+  ],
+  "ShelfCabinet": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "ShipwrightAdvanced": [
+    "CraftingTable"
+  ],
+  "ShipwrightSkillBook": [
+    "SkillBooks"
+  ],
+  "ShipwrightSkillScroll": [
+    "SkillScrolls"
+  ],
+  "ShipwrightTable": [
+    "CraftingTable"
+  ],
+  "Shipyard": [
+    "CraftingTable"
+  ],
+  "ShojiDoor": [
+    "LargeDoor"
+  ],
+  "ShopCart": [
+    "Vehicles"
+  ],
+  "Shorts": [
+    "Clothes"
+  ],
+  "Shovel": [
+    "Tool"
+  ],
+  "ShredKelp": [
+    "Food"
+  ],
+  "ShrimpCocktail": [
+    "Food"
+  ],
+  "ShroomSurprise": [
+    "Food"
+  ],
+  "Sickle": [
+    "Tool"
+  ],
+  "Silk": [
+    "Fabric"
+  ],
+  "Silt": [
+    "NaturalFiber"
+  ],
+  "SimpleSyrup": [
+    "Food"
+  ],
+  "Sink": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "SkidSteer": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "SmallBathMat": [
+    "Housing"
+  ],
+  "SmallBureau": [
+    "Housing"
+  ],
+  "SmallCanoe": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "SmallCottonBuntingFestive": [
+    "Housing"
+  ],
+  "SmallCottonBuntingRed": [
+    "Housing"
+  ],
+  "SmallCottonBuntingRegal": [
+    "Housing"
+  ],
+  "SmallCottonBuntingVibrant": [
+    "Housing"
+  ],
+  "SmallCourt": [
+    "Settlement"
+  ],
+  "SmallMetalShipFrame": [
+    "Parts"
+  ],
+  "SmallModernHouse": [
+    "Housing",
+    "Mountable"
+  ],
+  "SmallNylonBanner": [
+    "Housing"
+  ],
+  "SmallNylonBuntingGreen": [
+    "Housing"
+  ],
+  "SmallNylonBuntingPurple": [
+    "Housing"
+  ],
+  "SmallNylonBuntingYellow": [
+    "Housing"
+  ],
+  "SmallPaperLantern": [
+    "Housing"
+  ],
+  "SmallShipyard": [
+    "CraftingTable"
+  ],
+  "SmallSink": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "SmallStandingAshlarStoneSign": [
+    "Housing"
+  ],
+  "SmallStandingLumberSign": [
+    "Housing"
+  ],
+  "SmallStandingMortaredStoneSign": [
+    "Housing"
+  ],
+  "SmallWoodCart": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "SmallWoodenBoat": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "SmallWoodenShipFrame": [
+    "Parts"
+  ],
+  "SmallWoodenShipyard": [
+    "CraftingTable"
+  ],
+  "SmeltingBasicUpgrade": [
+    "Upgrade"
+  ],
+  "SmeltingSkillBook": [
+    "SkillBooks"
+  ],
+  "SmeltingSkillScroll": [
+    "SkillScrolls"
+  ],
+  "SmithApron": [
+    "Clothes"
+  ],
+  "SmithBandana": [
+    "Clothes"
+  ],
+  "SmithBoots": [
+    "Clothes"
+  ],
+  "SmithGloves": [
+    "Clothes"
+  ],
+  "SmithPants": [
+    "Clothes"
+  ],
+  "SmithShirt": [
+    "Clothes"
+  ],
+  "Smoker": [
+    "CraftingTable"
+  ],
+  "SmoothGutNoodleRoll": [
+    "Food"
+  ],
+  "SnappingTurtleCarcass": [
+    "TinyCarcass",
+    "TinyLeatherCarcass"
+  ],
+  "SoftwoodBoard": [
+    "WoodBoard",
+    "BurnableFuel",
+    "Fuel"
+  ],
+  "SoftwoodHewnLog": [
+    "HewnLog",
+    "Fuel",
+    "BurnableFuel"
+  ],
+  "SoftwoodLumber": [
+    "Lumber",
+    "Fuel",
+    "BurnableFuel"
+  ],
+  "SoftwoodLumberBench": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "SoftwoodLumberChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "SoftwoodLumberDresser": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "SoftwoodLumberTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "SpinMetedThread": [
+    "CraftingTable"
+  ],
+  "SpikedBoots": [
+    "Clothes"
+  ],
+  "SpruceLog": [
+    "BurnableFuel",
+    "Fuel",
+    "Softwood",
+    "Wood"
+  ],
+  "SpruceSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "SquareBelt": [
+    "Clothes"
+  ],
+  "SquashSeed": [
+    "Seeds"
+  ],
+  "StampMill": [
+    "CraftingTable"
+  ],
+  "StandingGlassSign": [
+    "Housing"
+  ],
+  "StandingLongSteelSign": [
+    "Housing"
+  ],
+  "StandingSteelSign": [
+    "Housing"
+  ],
+  "SteamTractor": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "SteamTractorHarvester": [
+    "Tool"
+  ],
+  "SteamTractorPlow": [
+    "Tool"
+  ],
+  "SteamTractorScoop": [
+    "Tool"
+  ],
+  "SteamTractorSower": [
+    "Tool"
+  ],
+  "SteamTruck": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "SteelAbstractFixture": [
+    "Housing"
+  ],
+  "SteelAxe": [
+    "Tool"
+  ],
+  "SteelBar": [
+    "Metal"
+  ],
+  "SteelCeilingLight": [
+    "Housing"
+  ],
+  "SteelFloorLamp": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "SteelGear": [
+    "Parts"
+  ],
+  "SteelGearbox": [
+    "Parts"
+  ],
+  "SteelHammer": [
+    "Tool"
+  ],
+  "SteelHangingFixture": [
+    "Housing"
+  ],
+  "SteelHangingLamp": [
+    "Housing"
+  ],
+  "SteelHoe": [
+    "Tool"
+  ],
+  "SteelKitchenLamp": [
+    "Housing"
+  ],
+  "SteelMachete": [
+    "Tool"
+  ],
+  "SteelPickaxe": [
+    "Tool"
+  ],
+  "SteelPlate": [
+    "Parts"
+  ],
+  "SteelSawBlade": [
+    "Parts"
+  ],
+  "SteelSearchlight": [
+    "Housing"
+  ],
+  "SteelShovel": [
+    "Tool"
+  ],
+  "SteelSickle": [
+    "Tool"
+  ],
+  "SteelSquareFixture": [
+    "Housing"
+  ],
+  "SteelTableLamp": [
+    "Housing"
+  ],
+  "StenographersTable": [
+    "Settlement"
+  ],
+  "Stone": [
+    "Rock"
+  ],
+  "StoneAxe": [
+    "Tool"
+  ],
+  "StoneBrazier": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "StoneHammer": [
+    "Tool"
+  ],
+  "StoneMachete": [
+    "Tool"
+  ],
+  "StonePickaxe": [
+    "Tool"
+  ],
+  "StonePlaque": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "StoneRoad": [
+    "Road"
+  ],
+  "StoneRoadTool": [
+    "Tool"
+  ],
+  "StoneSickle": [
+    "Tool"
+  ],
+  "StopAndSmellTheRoses": [
+    "Housing"
+  ],
+  "Store": [
+    "CraftingTable",
+    "HasTableSurface",
+    "Settlement"
+  ],
+  "Stove": [
+    "CanBeOnRug",
+    "CraftingTable",
+    "Housing"
+  ],
+  "StrangeFuel": [
+    "Food"
+  ],
+  "Streetlamp": [
+    "Housing"
+  ],
+  "StuffedAlligator": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "StuffedBison": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "StuffedElk": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "StuffedGoat": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "StuffedJaguar": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "StuffedTurkey": [
+    "Food"
+  ],
+  "StuffedWolf": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "StumpBed": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "StumpChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "StumpLatrine": [
+    "Housing",
+    "Mountable"
+  ],
+  "StumpTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "Housing"
+  ],
+  "Sugar": [
+    "Food"
+  ],
+  "Sugarcane": [
+    "Food",
+    "Seeds"
+  ],
+  "SunDriedMeat": [
+    "Food"
+  ],
+  "SunDriedTomato": [
+    "Food"
+  ],
+  "SunflowerOil": [
+    "Fat"
+  ],
+  "SunflowerSeed": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "SuperModernRocketHotDog": [
+    "Food"
+  ],
+  "SupremePizza": [
+    "Food"
+  ],
+  "SurvivalSkillBook": [
+    "SkillBooks"
+  ],
+  "SurvivalSkillScroll": [
+    "SkillScrolls"
+  ],
+  "SushiPlatter": [
+    "Food"
+  ],
+  "SweetDeerJerky": [
+    "Food"
+  ],
+  "SweetSalad": [
+    "Food"
+  ],
+  "SwimmingFins": [
+    "Clothes"
+  ],
+  "SwirlVase": [
+    "Housing"
+  ],
+  "TacoShell": [
+    "Food"
+  ],
+  "TailoringBasicUpgrade": [
+    "Upgrade"
+  ],
+  "TailoringModernUpgrade": [
+    "Upgrade"
+  ],
+  "TailoringTable": [
+    "CraftingTable",
+    "HasTableSurface",
+    "CanBeOnRug"
+  ],
+  "TailoringTableDataBoard": [
+    "Housing"
+  ],
+  "TallBoots": [
+    "Clothes"
+  ],
+  "Tallow": [
+    "Fat",
+    "Fuel",
+    "Food"
+  ],
+  "TallowCandle": [
+    "Housing"
+  ],
+  "TallowLamp": [
+    "Housing"
+  ],
+  "TallowWallLamp": [
+    "Housing"
+  ],
+  "Tannery": [
+    "CraftingTable"
+  ],
+  "Tapestry": [
+    "Housing"
+  ],
+  "TapestryFish": [
+    "Housing"
+  ],
+  "TapestrySunset": [
+    "Housing"
+  ],
+  "Taro": [
+    "Crop"
+  ],
+  "TaroFries": [
+    "Food"
+  ],
+  "TaroRoot": [
+    "Vegetable",
+    "Crop",
+    "Food",
+    "RawFood"
+  ],
+  "TaroSeed": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "TastyTropicalPizza": [
+    "Food"
+  ],
+  "Tax": [
+    "Settlement"
+  ],
+  "Thermometer": [
+    "SkillBooks"
+  ],
+  "Thread": [
+    "NaturalFiber"
+  ],
+  "TikiTorch": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "Toilet": [
+    "Housing",
+    "Mountable"
+  ],
+  "TomatoSeed": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "ToolBench": [
+    "CraftingTable",
+    "CanBeOnRug"
+  ],
+  "Torch": [
+    "Fuel"
+  ],
+  "TorchStand": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "Tortilla": [
+    "Food"
+  ],
+  "TowelRack": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "TownBell": [
+    "Housing"
+  ],
+  "TownFoundation": [
+    "CanBeOnRug",
+    "Housing",
+    "Settlement"
+  ],
+  "Transmission": [
+    "Parts"
+  ],
+  "Treasury": [
+    "Settlement"
+  ],
+  "TrilliumFlower": [
+    "Petals",
+    "Crop",
+    "Food"
+  ],
+  "TrilliumSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "Trout": [
+    "Fish",
+    "MediumFish"
+  ],
+  "Truck": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "Tuna": [
+    "Fish",
+    "LargeFish"
+  ],
+  "TurkeyCarcass": [
+    "TinyCarcass",
+    "TinyLeatherCarcass"
+  ],
+  "UpholsteredChair": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "UpholsteredCouch": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "VariableRefrigerator": [
+    "Housing"
+  ],
+  "VegetableMedley": [
+    "Food"
+  ],
+  "VegetableSoup": [
+    "Food"
+  ],
+  "VegetableStock": [
+    "Food"
+  ],
+  "WainwrightTable": [
+    "CraftingTable",
+    "HasTableSurface",
+    "CanBeOnRug"
+  ],
+  "WallCandle": [
+    "Housing"
+  ],
+  "Washboard": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "WashingMachine": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "WaterweedSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "WeaveCottonCanvas": [
+    "CraftingTable"
+  ],
+  "WeaveCottonCurtains": [
+    "CraftingTable"
+  ],
+  "WeaveLargeBathMat": [
+    "CraftingTable"
+  ],
+  "WeaveLinenCanvas": [
+    "CraftingTable"
+  ],
+  "WeaveNylonCurtains": [
+    "CraftingTable"
+  ],
+  "WeaveSmallBathMat": [
+    "CraftingTable"
+  ],
+  "WeaveWoolCurtains": [
+    "CraftingTable"
+  ],
+  "Wheat": [
+    "Crop",
+    "Grain",
+    "RawFood",
+    "Food"
+  ],
+  "WheatPorridge": [
+    "Food"
+  ],
+  "WheatSeed": [
+    "CropSeed",
+    "Food",
+    "Seeds"
+  ],
+  "Wheelbarrow": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "WhiteBursageSeed": [
+    "Food",
+    "Seeds"
+  ],
+  "WhiteDye": [
+    "Pigment"
+  ],
+  "WildMix": [
+    "Food"
+  ],
+  "WildStew": [
+    "Food"
+  ],
+  "WiltedFiddleheads": [
+    "CharredGreen",
+    "Food"
+  ],
+  "WindTurbine": [
+    "Parts"
+  ],
+  "WindowShuttersCenter": [
+    "Housing"
+  ],
+  "WindowShuttersLeft": [
+    "Housing"
+  ],
+  "WindowShuttersRight": [
+    "Housing"
+  ],
+  "WolfCarcass": [
+    "SmallCarcass"
+  ],
+  "WolfPelt": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "WoodCart": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "WoodPlaque": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "WoodPulp": [
+    "NaturalFiber",
+    "BurnableFuel",
+    "Fuel"
+  ],
+  "WoodShopCart": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "WoodSign": [
+    "Housing"
+  ],
+  "WoodWindowPlanter": [
+    "Housing"
+  ],
+  "WoodenBarge": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "WoodenBow": [
+    "Tool"
+  ],
+  "WoodenCeilingLight": [
+    "Housing"
+  ],
+  "WoodenFabricBed": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "WoodenFloorLamp": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "WoodenFrameLandscape": [
+    "Housing"
+  ],
+  "WoodenFramePortrait": [
+    "Housing"
+  ],
+  "WoodenFrameSquare": [
+    "Housing"
+  ],
+  "WoodenFrameTall": [
+    "Housing"
+  ],
+  "WoodenFrameWide": [
+    "Housing"
+  ],
+  "WoodenHullPlanks": [
+    "Parts"
+  ],
+  "WoodenKitchenLamp": [
+    "Housing"
+  ],
+  "WoodenLatrine": [
+    "Housing",
+    "Mountable"
+  ],
+  "WoodenMooragePost": [
+    "Housing"
+  ],
+  "WoodenPaintSprayer": [
+    "Painter",
+    "Tool"
+  ],
+  "WoodenRugLarge": [
+    "Housing"
+  ],
+  "WoodenRugMedium": [
+    "Housing"
+  ],
+  "WoodenRugSmall": [
+    "Housing"
+  ],
+  "WoodenShovel": [
+    "Tool"
+  ],
+  "WoodenSign": [
+    "Housing"
+  ],
+  "WoodenSlidingDoor": [
+    "LargeDoor"
+  ],
+  "WoodenStrawBed": [
+    "CanBeOnRug",
+    "Housing",
+    "Mountable"
+  ],
+  "WoodenTableLamp": [
+    "Housing"
+  ],
+  "WoodenTransportShip": [
+    "Mountable",
+    "Vehicles"
+  ],
+  "WoodenWallTorchStand": [
+    "Housing"
+  ],
+  "WoodenWheel": [
+    "Parts"
+  ],
+  "Wool": [
+    "NaturalFiber"
+  ],
+  "WoolFabric": [
+    "Fabric"
+  ],
+  "WorkBackpack": [
+    "Clothes"
+  ],
+  "WorkBoots": [
+    "Clothes"
+  ],
+  "Workbench": [
+    "CraftingTable",
+    "CanBeOnRug"
+  ],
+  "WorldMap": [
+    "Housing"
+  ],
+  "WorldlyDonut": [
+    "Food"
+  ],
+  "Wort": [
+    "Food"
+  ],
+  "YellowDye": [
+    "Pigment"
+  ],
+  "Yeast": [
+    "Food"
+  ],
+  "ZatapoqRolls": [
+    "Food"
+  ],
+  "ZatakuTable": [
+    "HasTableSurface",
+    "Housing",
+    "Mountable"
+  ],
+  "ZoningBoard": [
+    "Settlement"
+  ],
+  "Bandana": [
+    "Clothes"
+  ],
+  "BuilderGloves": [
+    "Clothes"
+  ],
+  "CamoPants": [
+    "Clothes"
+  ],
+  "CamoShirt": [
+    "Clothes"
+  ],
+  "ChefHat": [
+    "Clothes"
+  ],
+  "ChefPants": [
+    "Clothes"
+  ],
+  "ChefShirt": [
+    "Clothes"
+  ],
+  "ChefShoes": [
+    "Clothes"
+  ],
+  "FarmerBoots": [
+    "Clothes"
+  ],
+  "FarmerGloves": [
+    "Clothes"
+  ],
+  "WanderersHoodRaised": [
+    "Clothes"
+  ],
+  "WanderersHoodLowered": [
+    "Clothes"
+  ],
+  "Tunic": [
+    "Clothes"
+  ],
+  "Trousers": [
+    "Clothes"
+  ],
+  "TrapperFurHat": [
+    "Clothes"
+  ],
+  "SpikyRoll": [
+    "Food"
+  ],
+  "CompositesSkillBook": [
+    "SkillBooks"
+  ],
+  "PaintingSkillBook": [
+    "SkillBooks"
+  ],
+  "TailoringSkillBook": [
+    "SkillBooks"
+  ],
+  "TripodCamera": [
+    "CanBeOnRug"
+  ],
+  "PrimitiveCanvasBoots": [
+    "Clothes"
+  ],
+  "PrimitiveLeatherBoots": [
+    "Clothes"
+  ],
+  "FarmerOveralls": [
+    "Clothes"
+  ],
+  "ShipwrightOveralls": [
+    "Clothes"
+  ],
+  "TrapperLeatherHat": [
+    "Clothes"
+  ],
+  "GigotSleeveShirt": [
+    "Clothes"
+  ],
+  "PrimitiveLeatherShirt": [
+    "Clothes"
+  ],
+  "ShipwrightShirt": [
+    "Clothes"
+  ],
+  "TailorShirt": [
+    "Clothes"
+  ],
+  "TailorBowlerHat": [
+    "Clothes"
+  ],
+  "TailorPants": [
+    "Clothes"
+  ],
+  "TailorShoes": [
+    "Clothes"
+  ],
+  "PrimitiveFurBelt": [
+    "Clothes"
+  ],
+  "ShipwrightHat": [
+    "Clothes"
+  ],
+  "MuffinHat": [
+    "Clothes"
+  ],
+  "AdvancedCarpentryTable": [
+    "CanBeOnRug",
+    "HasTableSurface",
+    "CraftingTable"
+  ],
+  "Arrastra": [
+    "CanBeOnRug",
+    "CraftingTable"
+  ],
+  "AssemblyLine": [
+    "CraftingTable"
+  ],
+  "Campsite": [
+    "CraftingTable"
+  ],
+  "ElectricLathe": [
+    "CraftingTable"
+  ],
+  "ElectricMachinistTable": [
+    "CraftingTable",
+    "HasTableSurface"
+  ],
+  "ElectricPlaner": [
+    "CraftingTable"
+  ],
+  "ElectricStampingPress": [
+    "CraftingTable"
+  ],
+  "FiberScutchingStation": [
+    "CanBeOnRug",
+    "CraftingTable"
+  ],
+  "FishRack": [
+    "CraftingTable"
+  ],
+  "FletchingTable": [
+    "HasTableSurface",
+    "CraftingTable"
+  ],
+  "FrothFloatationCell": [
+    "CraftingTable"
+  ],
+  "IndustrialMill": [
+    "CraftingTable"
+  ],
+  "InjectionMoldMachine": [
+    "CraftingTable"
+  ],
+  "JawCrusher": [
+    "CraftingTable"
+  ],
+  "PaintMixer": [
+    "CanBeOnRug",
+    "CraftingTable"
+  ],
+  "PowerHammer": [
+    "CraftingTable"
+  ],
+  "ScrewPress": [
+    "CraftingTable"
+  ],
+  "SmallPaperMachine": [
+    "CraftingTable"
+  ],
+  "Peat": [
+    "Fuel",
+    "BurnableFuel"
+  ],
+  "CrabCarcass": [
+    "SmallFish"
+  ],
+  "PeltFertilizer": [
+    "Fertilizer"
+  ],
+  "PrimitiveCanvasPants": [
+    "Clothes"
+  ],
+  "PrimitiveCanvasShorts": [
+    "Clothes"
+  ],
+  "CookingUtensils": [
+    "Parts"
+  ],
+  "CottonBoll": [
+    "Crop"
+  ],
+  "FlaxStem": [
+    "Crop"
+  ],
+  "Fuse": [
+    "Parts"
+  ],
+  "LinenYarn": [
+    "Parts"
+  ],
+  "Lubricant": [
+    "Parts"
+  ],
+  "MagentaPowder": [
+    "Pigment"
+  ],
+  "MetalRudder": [
+    "Parts"
+  ],
+  "MillStone": [
+    "Parts"
+  ],
+  "Mortar": [
+    "Parts"
+  ],
+  "NylonThread": [
+    "Parts"
+  ],
+  "PaintBucket": [
+    "BurnableFuel",
+    "Fuel",
+    "Petals"
+  ],
+  "PolishingPaste": [
+    "Parts"
+  ],
+  "SharpeningSteel": [
+    "Parts"
+  ],
+  "Whetstone": [
+    "Parts"
+  ],
+  "WhitePowder": [
+    "Pigment"
+  ],
+  "WoodenGear": [
+    "Parts"
+  ],
+  "YellowPowder": [
+    "Pigment"
+  ],
+  "NorseAxe": [
+    "Tool"
+  ],
+  "SoilSampler": [
+    "Tool"
+  ],
+  "DirtRoad": [
+    "Road"
+  ],
+  "MiningCharge": [
+    "CanBeOnRug"
+  ],
+  "BakedMeat": [
+    "Food"
+  ],
+  "Bearclaw": [
+    "Food"
+  ],
+  "Macarons": [
+    "Food"
+  ],
+  "Bannock": [
+    "Food"
+  ],
+  "MeatyStew": [
+    "Food"
+  ],
+  "ToppedPorridge": [
+    "Food"
+  ],
+  "AutumnStew": [
+    "Food"
+  ],
+  "BanhXeo": [
+    "Food"
+  ],
+  "BearSUPREME": [
+    "Food"
+  ],
+  "BisonChowFun": [
+    "Food"
+  ],
+  "ClamChowder": [
+    "Food"
+  ],
+  "CrimsonSalad": [
+    "Food"
+  ],
+  "LoadedTaroFries": [
+    "Food"
+  ],
+  "Mochi": [
+    "Food"
+  ],
+  "PokeBowl": [
+    "Food"
+  ],
+  "Pupusas": [
+    "Food"
+  ],
+  "SimmeredMeat": [
+    "Food"
+  ],
+  "BoiledRice": [
+    "Food"
+  ],
+  "CerealGerm": [
+    "Food"
+  ],
+  "Cornmeal": [
+    "Food"
+  ],
+  "HuckleberryExtract": [
+    "Food"
+  ],
+  "Sunflower": [
+    "Crop",
+    "Food"
+  ],
+  "Tomato": [
+    "Crop",
+    "Vegetable",
+    "Food",
+    "RawFood"
+  ],
+  "RawFish": [
+    "Food"
+  ],
+  "RawMeat": [
+    "Food"
+  ],
+  "Bathtub": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "PrimitiveLeatherPants": [
+    "Clothes"
+  ],
+  "PrimitiveLeatherShorts": [
+    "Clothes"
+  ],
+  "CompositeRedwoodLumber": [
+    "CompositeLumber",
+    "SoftwoodLumber"
+  ],
+  "CompositePalmLumber": [
+    "CompositeLumber"
+  ],
+  "CrushedSlag": [
+    "CrushedRock"
+  ],
+  "HardwoodLumberDresser": [
+    "CanBeOnRug",
+    "Housing"
+  ],
+  "CopperFrameLandscape": [
+    "Housing"
+  ],
+  "CopperFramePortrait": [
+    "Housing"
+  ],
+  "CopperFrameSquare": [
+    "Housing"
+  ],
+  "CopperFrameTall": [
+    "Housing"
+  ],
+  "CopperFrameWide": [
+    "Housing"
+  ],
+  "GoldFrameLandscape": [
+    "Housing"
+  ],
+  "GoldFramePortrait": [
+    "Housing"
+  ],
+  "GoldFrameSquare": [
+    "Housing"
+  ],
+  "GoldFrameTall": [
+    "Housing"
+  ],
+  "GoldFrameWide": [
+    "Housing"
+  ],
+  "IronFrameLandscape": [
+    "Housing"
+  ],
+  "IronFramePortrait": [
+    "Housing"
+  ],
+  "IronFrameSquare": [
+    "Housing"
+  ],
+  "IronFrameTall": [
+    "Housing"
+  ],
+  "IronFrameWide": [
+    "Housing"
+  ],
+  "CompositeLumber": [
+    "CompositeLumber"
+  ]
+}
