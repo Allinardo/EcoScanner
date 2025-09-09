@@ -1,4 +1,4 @@
-# eco_recipe_gui_with_notes.pyw – v5.4 Standard Window - Enhanced Room Tier Display - FIXED NAVIGATION
+# eco_recipe_gui_with_notes.pyw – v5.5 Standard Window - Enhanced Room Type Search
 import os, re, json, threading, tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 import shutil
@@ -606,6 +606,7 @@ class GUI:
         s.current_recipe_index = 0
         s.current_item_recipes = []
         s.edit_mode = False
+        s.filter_room_category = None  # New: for room type filtering
 
         # Cross-platform font handling
         s._setup_fonts()
@@ -809,6 +810,10 @@ class GUI:
         
         s.food_items_btn = tk.Button(sr, text="Food Items", font=s.ui_font, width=10)
         s.food_items_btn.pack(side="left", padx=(0, 5))
+        
+        # New: Room Types button
+        s.room_types_btn = tk.Button(sr, text="Room Types", font=s.ui_font, width=10)
+        s.room_types_btn.pack(side="left", padx=(0, 5))
         
         s.current_filter_label = tk.Label(sr, text="", font=s.ui_font, fg="blue")
         s.current_filter_label.pack(side="left", padx=5)
@@ -1308,7 +1313,148 @@ class GUI:
         # Connect button event handlers
         s.tags_filter_btn.config(command=s.toggle_tags_filter)
         s.food_items_btn.config(command=s.toggle_food_filter)
+        s.room_types_btn.config(command=s.toggle_room_types_filter)  # New handler
         s.admin_tools_btn.config(command=s.toggle_admin_tools)
+
+    def toggle_room_types_filter(s):
+        """Show or clear room types filter"""
+        if s.filter_room_category:
+            s.clear_room_filter()
+        else:
+            s.show_room_types_filter()
+
+    def show_room_types_filter(s):
+        """Show dialog for filtering by room type"""
+        # Collect all available room categories from the data
+        room_categories = {}
+        for item in s.data:
+            if 'housing_info' in item and 'room_category' in item['housing_info']:
+                category = item['housing_info']['room_category']
+                if category not in room_categories:
+                    room_categories[category] = 0
+                room_categories[category] += 1
+        
+        if not room_categories:
+            messagebox.showinfo("No Room Types", "No items with room categories have been found.")
+            return
+        
+        # Create dialog
+        dialog = tk.Toplevel(s.r)
+        dialog.title("Filter by Room Type")
+        dialog.geometry("450x550")
+        
+        tk.Label(dialog, text="Click a room type to filter items:", font=s.ui_font_bold).pack(pady=10)
+        
+        # Create scrollable frame
+        canvas = tk.Canvas(dialog)
+        scrollbar = tk.Scrollbar(dialog, orient="vertical", command=canvas.yview)
+        scrollable_frame = tk.Frame(canvas)
+        
+        scrollable_frame.bind(
+            "<Configure>",
+            lambda e: canvas.configure(scrollregion=canvas.bbox("all"))
+        )
+        
+        canvas.create_window((0, 0), window=scrollable_frame, anchor="nw")
+        canvas.configure(yscrollcommand=scrollbar.set)
+        
+        # Room type colors for visual distinction
+        room_colors = {
+            'Bedroom': '#E6F3FF',
+            'Kitchen': '#FFE6E6',
+            'Bathroom': '#E6FFE6',
+            'Living': '#FFF3E6',
+            'Industrial': '#F0F0F0',
+            'General': '#FFFFCC',
+        }
+        
+        # Add room type buttons
+        for room_type in sorted(room_categories.keys()):
+            count = room_categories[room_type]
+            
+            room_frame = tk.Frame(scrollable_frame, relief="raised", borderwidth=1, cursor="hand2",
+                                 bg=room_colors.get(room_type, '#FFFFFF'))
+            room_frame.pack(fill="x", padx=10, pady=2)
+            
+            # Room type icon (using emoji for simplicity)
+            room_icons = {
+                'Bedroom': '🛏️',
+                'Kitchen': '🍳',
+                'Bathroom': '🚿',
+                'Living': '🛋️',
+                'Industrial': '⚙️',
+                'General': '🏠',
+            }
+            
+            icon_label = tk.Label(room_frame, text=room_icons.get(room_type, '📦'), 
+                                font=('Arial', 20), bg=room_colors.get(room_type, '#FFFFFF'))
+            icon_label.pack(side="left", padx=10, pady=5)
+            
+            # Room type name
+            type_label = tk.Label(room_frame, text=room_type, font=(s.ui_font[0], 12, 'bold'),
+                                bg=room_colors.get(room_type, '#FFFFFF'))
+            type_label.pack(side="left", padx=5)
+            
+            # Item count
+            count_label = tk.Label(room_frame, text=f"({count} items)", font=s.ui_font, fg="gray",
+                                 bg=room_colors.get(room_type, '#FFFFFF'))
+            count_label.pack(side="right", padx=10)
+            
+            # Click handler
+            def apply_room_filter(event, room_cat=room_type):
+                s.filter_room_category = room_cat
+                s.current_filter_label.config(text=f"Room: {room_cat}")
+                s.room_types_btn.config(text="Clear Room", bg="lightcoral")
+                
+                # Clear other filters
+                s.q.set("")
+                s.filter_tag = None
+                s.tags_filter_btn.config(text="Tags", bg="SystemButtonFace")
+                s.food_items_btn.config(bg="SystemButtonFace")
+                s.nutrition_sort_frame.pack_forget()
+                s.sort_var.set("Name (A-Z)")
+                
+                dialog.destroy()
+                s.filter()
+                s.st.config(text=f"Filtered by room type: {room_cat}")
+            
+            # Bind click to all widgets in the frame
+            for widget in [room_frame, icon_label, type_label, count_label]:
+                widget.bind("<Button-1>", apply_room_filter)
+        
+        canvas.pack(side="left", fill="both", expand=True)
+        scrollbar.pack(side="right", fill="y")
+        
+        # Mouse wheel scrolling
+        def on_canvas_mousewheel(event):
+            canvas.yview_scroll(int(-3*(event.delta/120)), "units")
+            return "break"
+        
+        canvas.bind("<MouseWheel>", on_canvas_mousewheel)
+        if platform.system() == "Linux":
+            canvas.bind("<Button-4>", lambda e: canvas.yview_scroll(-3, "units"))
+            canvas.bind("<Button-5>", lambda e: canvas.yview_scroll(3, "units"))
+        
+        # Bottom buttons
+        button_frame = tk.Frame(dialog)
+        button_frame.pack(fill="x", pady=10)
+        
+        def reset_filter():
+            s.clear_room_filter()
+            dialog.destroy()
+        
+        tk.Button(button_frame, text="Reset Filter", command=reset_filter, 
+                 font=s.ui_font, width=15).pack(side="left", padx=20)
+        
+        tk.Button(button_frame, text="Cancel", command=dialog.destroy, 
+                 font=s.ui_font).pack(side="right", padx=20)
+
+    def clear_room_filter(s):
+        """Clear room type filter"""
+        s.filter_room_category = None
+        s.current_filter_label.config(text="")
+        s.room_types_btn.config(text="Room Types", bg="SystemButtonFace")
+        s.filter()
 
     def auto_detect_eco(s):
         """Auto-detect Eco installation paths"""
@@ -1813,9 +1959,16 @@ class GUI:
             if name in s._hidden_items:
                 continue
             
+            # Filter by tag
             if s.filter_tag:
                 item_tags = s._tags.get(name, [])
                 if s.filter_tag not in item_tags:
+                    continue
+            
+            # Filter by room category
+            if s.filter_room_category:
+                item_room_cat = rec.get('housing_info', {}).get('room_category')
+                if item_room_cat != s.filter_room_category:
                     continue
             
             tags = s._tags.get(name, [])
@@ -1927,6 +2080,11 @@ class GUI:
                     val = nutrition.get('vitamins', 0)
                     emoji = "🟢" if val < 0 else "🟢"
                     display_text += f" {emoji} ({val} vit)"
+            
+            # Add room category to display if filtering by room type
+            if s.filter_room_category and rec.get('housing_info', {}).get('room_category'):
+                room_cat = rec['housing_info']['room_category']
+                display_text += f" [{room_cat}]"
             
             s.tree.insert('', 'end', iid=str(filtered_idx), text=display_text, image=icon_img)
 
