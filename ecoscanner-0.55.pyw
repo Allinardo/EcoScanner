@@ -161,7 +161,7 @@ PAT_NUTRIENTS = re.compile(r"Nutrients\s*=\s*new\s+List<.*?>\s*\{([^}]+)\}", re.
 PAT_WEIGHT   = re.compile(r'\[Weight\((\d+)\)\]', re.I)  # Matches [Weight(6500)] format
 # Housing/Furnishing patterns
 PAT_BASE_VALUE = re.compile(r'BaseValue\s*=\s*(\d+\.?\d*)f?', re.I)
-PAT_ROOM_CATEGORY = re.compile(r'Category\s*=\s*HousingConfig\.GetRoomCategory\("(\w+)"\)', re.I)
+PAT_ROOM_CATEGORY = re.compile(r'Category\s*=\s*HousingConfig\.GetRoomCategory\("([^"]+)"\)', re.I)
 PAT_TYPE_FOR_ROOM_LIMIT = re.compile(r'TypeForRoomLimit\s*=\s*Localizer\.DoStr\("([^"]+)"\)', re.I)
 PAT_DIMINISHING_RETURN = re.compile(r'DiminishingReturnMultiplier\s*=\s*(\d+\.?\d*)f?', re.I)
 
@@ -1363,7 +1363,7 @@ class GUI:
             'Bedroom': '#E6F3FF',
             'Kitchen': '#FFE6E6',
             'Bathroom': '#E6FFE6',
-            'Living': '#FFF3E6',
+            'Living Room': '#FFF3E6',
             'Industrial': '#F0F0F0',
             'General': '#FFFFCC',
         }
@@ -1381,7 +1381,7 @@ class GUI:
                 'Bedroom': '🛏️',
                 'Kitchen': '🍳',
                 'Bathroom': '🚿',
-                'Living': '🛋️',
+                'Living Room': '🛋️',
                 'Industrial': '⚙️',
                 'General': '🏠',
             }
