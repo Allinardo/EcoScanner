@@ -90,107 +90,107 @@
     "Housing"
   ],
   "AdornedAshlarBasaltBench": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "AdornedAshlarBasaltChair": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "AdornedAshlarBasaltTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
   "AdornedAshlarGneissBench": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "AdornedAshlarGneissChair": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "AdornedAshlarGneissTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
   "AdornedAshlarGraniteBench": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "AdornedAshlarGraniteChair": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "AdornedAshlarGraniteTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
   "AdornedAshlarLimestoneBench": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "AdornedAshlarLimestoneChair": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "AdornedAshlarLimestoneTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
   "AdornedAshlarSandstoneBench": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "AdornedAshlarSandstoneChair": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "AdornedAshlarSandstoneTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
   "AdornedAshlarShaleBench": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "AdornedAshlarShaleChair": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "AdornedAshlarShaleTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
-  "AdornedAshlarStoneBench": [
-    "CanBeOnRug",
+  "AdornedAshlar StoneBench": [
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
-  "AdornedAshlarStoneChair": [
-    "CanBeOnRug",
+  "AdornedAshlar StoneChair": [
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
-  "AdornedAshlarStoneTable": [
-    "HasTableSurface",
+  "AdornedAshlar StoneTable": [
+    "Has Table Surface",
     "Housing",
     "Mountable"
   ],
@@ -223,7 +223,7 @@
     "Upgrade"
   ],
   "AdvancedBakingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "AdvancedBakingSkillScroll": [
     "SkillScrolls"
@@ -232,9 +232,9 @@
     "Upgrade"
   ],
   "AdvancedCarpentryTable": [
-    "CanBeOnRug",
-    "CraftingTable",
-    "HasTableSurface"
+    "Can Be On Rug",
+    "Crafting Table",
+    "Has Table Surface"
   ],
   "AdvancedCircuit": [
     "Parts"
@@ -243,7 +243,7 @@
     "Parts"
   ],
   "AdvancedCookingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "AdvancedCookingSkillScroll": [
     "SkillScrolls"
@@ -252,21 +252,21 @@
     "Upgrade"
   ],
   "AdvancedMasonrySkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "AdvancedMasonrySkillScroll": [
     "SkillScrolls"
   ],
   "AdvancedMasonryTable": [
-    "CanBeOnRug",
-    "CraftingTable",
-    "HasTableSurface"
+    "Can Be On Rug",
+    "Crafting Table",
+    "Has Table Surface"
   ],
   "AdvancedMasonryUpgrade": [
     "Upgrade"
   ],
   "AdvancedSmeltingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "AdvancedSmeltingSkillScroll": [
     "SkillScrolls"
@@ -275,9 +275,9 @@
     "Upgrade"
   ],
   "AdvancedTailoringTable": [
-    "CanBeOnRug",
-    "CraftingTable",
-    "HasTableSurface"
+    "Can Be On Rug",
+    "Crafting Table",
+    "Has Table Surface"
   ],
   "AdvancedUpgrade1": [
     "AdvancedUpgrade",
@@ -315,10 +315,10 @@
     "Crop",
     "Food",
     "Greens",
-    "RawFood"
+    "Raw Food"
   ],
   "Agave Seed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -326,53 +326,53 @@
     "Crop",
     "Food",
     "Greens",
-    "RawFood"
+    "Raw Food"
   ],
   "AgaveSeed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
   "Agouti Carcass": [
-    "TinyCarcass",
-    "TinyFurCarcass"
+    "Tiny Carcass",
+    "Tiny Fur Carcass"
   ],
   "Agouti Enchiladas": [
     "Food"
   ],
   "AgoutiCarcass": [
-    "TinyCarcass",
-    "TinyFurCarcass"
+    "Tiny Carcass",
+    "Tiny Fur Carcass"
   ],
   "AgoutiEnchiladas": [
     "Food"
   ],
   "Agriculture Research Paper Advanced": [
-    "AdvancedResearch",
+    "Advanced Research",
     "Research"
   ],
   "Agriculture Research Paper Modern": [
-    "ModernResearch",
+    "Modern Research",
     "Research"
   ],
   "AgricultureResearchPaperAdvanced": [
-    "AdvancedResearch",
+    "Advanced Research",
     "Research"
   ],
   "AgricultureResearchPaperModern": [
-    "ModernResearch",
+    "Modern Research",
     "Research"
   ],
   "Alligator Carcass": [
-    "MediumCarcass",
-    "MediumLeatherCarcass"
+    "Medium Carcass",
+    "Medium Leather Carcass"
   ],
   "AlligatorCarcass": [
-    "MediumCarcass",
-    "MediumLeatherCarcass"
+    "Medium Carcass",
+    "Medium Leather Carcass"
   ],
   "Amanita Mushroom Spores": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -382,7 +382,7 @@
     "Fungus"
   ],
   "AmanitaMushroomSpores": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -393,14 +393,14 @@
   ],
   "Amendments": [
     "HewnLog",
-    "MortaredStone"
+    "Mortared Stone"
   ],
   "AnimalCarcass": [
-    "MediumCarcass"
+    "Medium Carcass"
   ],
   "Anvil": [
-    "CanBeOnRug",
-    "CraftingTable"
+    "Can Be On Rug",
+    "Crafting Table"
   ],
   "Arctic Willow Seed": [
     "Food",
@@ -411,15 +411,15 @@
     "Seeds"
   ],
   "Arrastra": [
-    "CanBeOnRug",
-    "CraftingTable"
+    "Can Be On Rug",
+    "Crafting Table"
   ],
   "Arrow": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel"
   ],
   "Ashlar Basalt": [
-    "AshlarStone"
+    "Ashlar Stone"
   ],
   "Ashlar Basalt Bench": [
     "Housing",
@@ -436,7 +436,7 @@
     "Housing"
   ],
   "Ashlar Gneiss": [
-    "AshlarStone"
+    "Ashlar Stone"
   ],
   "Ashlar Gneiss Bench": [
     "Housing",
@@ -453,7 +453,7 @@
     "Housing"
   ],
   "Ashlar Granite": [
-    "AshlarStone"
+    "Ashlar Stone"
   ],
   "Ashlar Granite Bench": [
     "Housing",
@@ -491,7 +491,7 @@
     "Housing"
   ],
   "Ashlar Limestone": [
-    "AshlarStone"
+    "Ashlar Stone"
   ],
   "Ashlar Limestone Bench": [
     "Housing",
@@ -508,7 +508,7 @@
     "Housing"
   ],
   "Ashlar Sandstone": [
-    "AshlarStone"
+    "Ashlar Stone"
   ],
   "Ashlar Sandstone Bench": [
     "Housing",
@@ -525,7 +525,7 @@
     "Housing"
   ],
   "Ashlar Shale": [
-    "AshlarStone"
+    "Ashlar Stone"
   ],
   "Ashlar Shale Bench": [
     "Housing",
@@ -577,7 +577,7 @@
     "Housing"
   ],
   "AshlarBasalt": [
-    "AshlarStone"
+    "Ashlar Stone"
   ],
   "AshlarBasaltBench": [
     "Housing",
@@ -588,26 +588,26 @@
     "Mountable"
   ],
   "AshlarBasaltFireplace": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Housing"
   ],
   "AshlarGneiss": [
-    "AshlarStone"
+    "Ashlar Stone"
   ],
   "AshlarGranite": [
-    "AshlarStone"
+    "Ashlar Stone"
   ],
   "AshlarLimestone": [
-    "AshlarStone"
+    "Ashlar Stone"
   ],
   "AshlarSandstone": [
-    "AshlarStone"
+    "Ashlar Stone"
   ],
   "AshlarShale": [
-    "AshlarStone"
+    "Ashlar Stone"
   ],
-  "AshlarStone": [
-    "AshlarStone"
+  "Ashlar Stone": [
+    "Ashlar Stone"
   ],
   "Asphalt Concrete": [
     "Road"
@@ -616,10 +616,10 @@
     "Road"
   ],
   "AssemblyLine": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "AutomaticLoom": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Autumn Stew": [
     "Food"
@@ -631,60 +631,60 @@
     "Tool"
   ],
   "Baked Agave": [
-    "BakedFood",
-    "BakedVegetable",
+    "Baked Food",
+    "Baked Vegetable",
     "Food"
   ],
   "Baked Beet": [
-    "BakedFood",
-    "BakedVegetable",
+    "Baked Food",
+    "Baked Vegetable",
     "Food"
   ],
   "Baked Corn": [
-    "BakedFood",
-    "BakedVegetable",
+    "Baked Food",
+    "Baked Vegetable",
     "Food"
   ],
   "Baked Heart Of Palm": [
-    "BakedFood",
-    "BakedVegetable",
+    "Baked Food",
+    "Baked Vegetable",
     "Food"
   ],
   "Baked Meat": [
     "Food"
   ],
   "Baked Roast": [
-    "BakedFood",
+    "Baked Food",
     "Food"
   ],
   "Baked Taro": [
-    "BakedFood",
-    "BakedVegetable",
+    "Baked Food",
+    "Baked Vegetable",
     "Food"
   ],
   "Baked Tomato": [
-    "BakedFood",
-    "BakedVegetable",
+    "Baked Food",
+    "Baked Vegetable",
     "Food"
   ],
   "BakedAgave": [
-    "BakedFood",
-    "BakedVegetable",
+    "Baked Food",
+    "Baked Vegetable",
     "Food"
   ],
   "BakedBeet": [
-    "BakedFood",
-    "BakedVegetable",
+    "Baked Food",
+    "Baked Vegetable",
     "Food"
   ],
   "BakedCorn": [
-    "BakedFood",
-    "BakedVegetable",
+    "Baked Food",
+    "Baked Vegetable",
     "Food"
   ],
   "BakedHeartOfPalm": [
-    "BakedFood",
-    "BakedVegetable",
+    "Baked Food",
+    "Baked Vegetable",
     "Food"
   ],
   "BakedMeat": [
@@ -694,30 +694,30 @@
     "Food"
   ],
   "BakedRoast": [
-    "BakedFood",
+    "Baked Food",
     "Food"
   ],
   "BakedTaro": [
-    "BakedFood",
-    "BakedVegetable",
+    "Baked Food",
+    "Baked Vegetable",
     "Food"
   ],
   "BakedTomato": [
-    "BakedFood",
-    "BakedVegetable",
+    "Baked Food",
+    "Baked Vegetable",
     "Food"
   ],
   "Bakery Oven": [
     "Housing"
   ],
   "BakeryOven": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Baking Upgrade": [
     "Upgrade"
   ],
   "BakingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "BakingSkillScroll": [
     "SkillScrolls"
@@ -744,7 +744,7 @@
     "Food"
   ],
   "Bank": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Bannock": [
     "Food"
@@ -771,19 +771,19 @@
     "Salad"
   ],
   "Basic Upgrade Lvl1": [
-    "BasicUpgrade",
+    "Basic Upgrade",
     "Upgrade"
   ],
   "Basic Upgrade Lvl2": [
-    "BasicUpgrade",
+    "Basic Upgrade",
     "Upgrade"
   ],
   "Basic Upgrade Lvl3": [
-    "BasicUpgrade",
+    "Basic Upgrade",
     "Upgrade"
   ],
   "Basic Upgrade Lvl4": [
-    "BasicUpgrade",
+    "Basic Upgrade",
     "Upgrade"
   ],
   "BasicBackpack": [
@@ -793,7 +793,7 @@
     "Parts"
   ],
   "BasicEngineeringSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "BasicEngineeringSkillScroll": [
     "SkillScrolls"
@@ -805,44 +805,44 @@
     "Food",
     "Salad"
   ],
-  "BasicUpgrade1": [
-    "BasicUpgrade",
+  "Basic Upgrade1": [
+    "Basic Upgrade",
     "Upgrade"
   ],
-  "BasicUpgrade2": [
-    "BasicUpgrade",
+  "Basic Upgrade2": [
+    "Basic Upgrade",
     "Upgrade"
   ],
-  "BasicUpgrade3": [
-    "BasicUpgrade",
+  "Basic Upgrade3": [
+    "Basic Upgrade",
     "Upgrade"
   ],
-  "BasicUpgrade4": [
-    "BasicUpgrade",
+  "Basic Upgrade4": [
+    "Basic Upgrade",
     "Upgrade"
   ],
-  "BasicUpgradeLvl1": [
-    "BasicUpgrade",
+  "Basic UpgradeLvl1": [
+    "Basic Upgrade",
     "Upgrade"
   ],
-  "BasicUpgradeLvl2": [
-    "BasicUpgrade",
+  "Basic UpgradeLvl2": [
+    "Basic Upgrade",
     "Upgrade"
   ],
-  "BasicUpgradeLvl3": [
-    "BasicUpgrade",
+  "Basic UpgradeLvl3": [
+    "Basic Upgrade",
     "Upgrade"
   ],
-  "BasicUpgradeLvl4": [
-    "BasicUpgrade",
+  "Basic UpgradeLvl4": [
+    "Basic Upgrade",
     "Upgrade"
   ],
   "Bass": [
     "Fish",
-    "MediumFish"
+    "Medium Fish"
   ],
   "Bathtub": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "Bean Paste": [
@@ -851,20 +851,20 @@
   "Bean Sprout": [
     "Crop",
     "Food",
-    "RawFood"
+    "Raw Food"
   ],
   "BeanPaste": [
     "Food"
   ],
   "BeanSprout": [
     "Greens",
-    "RawFood"
+    "Raw Food"
   ],
   "Beans": [
     "Crop",
-    "CropSeed",
+    "Crop Seed",
     "Food",
-    "RawFood",
+    "Raw Food",
     "Seeds",
     "Vegetable"
   ],
@@ -892,36 +892,36 @@
   "Beet": [
     "Crop",
     "Food",
-    "RawFood",
+    "Raw Food",
     "Vegetable"
   ],
   "Beet Campfire Salad": [
-    "CampfireSalad",
+    "Campfire Salad",
     "Food"
   ],
   "Beet Greens": [
     "Crop",
     "Food",
     "Greens",
-    "RawFood"
+    "Raw Food"
   ],
   "Beet Seed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
-  "BeetCampfireSalad": [
-    "CampfireSalad",
+  "BeetCampfire Salad": [
+    "Campfire Salad",
     "Food"
   ],
   "BeetGreens": [
     "Crop",
     "Food",
     "Greens",
-    "RawFood"
+    "Raw Food"
   ],
   "BeetSeed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -946,19 +946,19 @@
     "Seeds"
   ],
   "Bighorn Carcass": [
-    "MediumCarcass",
-    "MediumWoolyCarcass"
+    "Medium Carcass",
+    "Medium Wooly Carcass"
   ],
   "BighornCarcass": [
-    "MediumCarcass",
-    "MediumWoolyCarcass"
+    "Medium Carcass",
+    "Medium Wooly Carcass"
   ],
   "Biodiesel": [
     "Fuel",
-    "LiquidFuel"
+    "Liquid Fuel"
   ],
   "Birch Log": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Hardwood",
     "Wood"
@@ -968,7 +968,7 @@
     "Seeds"
   ],
   "BirchLog": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Hardwood",
     "Wood"
@@ -1008,16 +1008,16 @@
     "Upgrade"
   ],
   "BlacksmithTable": [
-    "CanBeOnRug",
-    "CraftingTable",
-    "HasTableSurface"
+    "Can Be On Rug",
+    "Crafting Table",
+    "Has Table Surface"
   ],
   "BlacksmithUpgrade": [
     "Upgrade"
   ],
   "BlastFurnace": [
-    "CanBeOnRug",
-    "CraftingTable"
+    "Can Be On Rug",
+    "Crafting Table"
   ],
   "Blasting Cap": [
     "Explosives"
@@ -1032,14 +1032,14 @@
     "Fertilizer"
   ],
   "Bloomery": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Blue Powder": [
     "Pigment"
   ],
   "Blue Shark": [
     "Fish",
-    "LargeFish"
+    "Large Fish"
   ],
   "BlueDye": [
     "Pigment"
@@ -1055,12 +1055,12 @@
   ],
   "BlueShark": [
     "Fish",
-    "LargeFish"
+    "Large Fish"
   ],
   "Board": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
-    "WoodBoard"
+    "Wood Board"
   ],
   "Boiled Grains": [
     "Food"
@@ -1084,7 +1084,7 @@
     "Parts"
   ],
   "Bolete Mushroom Spores": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -1092,10 +1092,10 @@
     "Crop",
     "Food",
     "Fungus",
-    "RawFood"
+    "Raw Food"
   ],
   "BoleteMushroomSpores": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -1103,7 +1103,7 @@
     "Crop",
     "Food",
     "Fungus",
-    "RawFood"
+    "Raw Food"
   ],
   "Bookshelf": [
     "Housing"
@@ -1164,7 +1164,7 @@
     "Clothes"
   ],
   "BuildingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "BuildingSkillScroll": [
     "SkillScrolls"
@@ -1189,8 +1189,8 @@
     "Seeds"
   ],
   "Butchery": [
-    "CraftingTable",
-    "HasTableSurface"
+    "Crafting Table",
+    "Has Table Surface"
   ],
   "Butchery Table": [
     "Housing"
@@ -1199,7 +1199,7 @@
     "Upgrade"
   ],
   "ButcherySkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "ButcherySkillScroll": [
     "SkillScrolls"
@@ -1222,14 +1222,14 @@
   ],
   "Camas Bulb": [
     "Crop",
-    "CropSeed",
-    "RawFood",
+    "Crop Seed",
+    "Raw Food",
     "Seeds",
     "Vegetable"
   ],
   "Camas Bulb Bake": [
-    "BakedFood",
-    "BakedVegetable",
+    "Baked Food",
+    "Baked Vegetable",
     "Food"
   ],
   "Camas Paste": [
@@ -1244,15 +1244,15 @@
   ],
   "CamasBulb": [
     "Crop",
-    "CropSeed",
+    "Crop Seed",
     "Food",
-    "RawFood",
+    "Raw Food",
     "Seeds",
     "Vegetable"
   ],
   "CamasBulbBake": [
-    "BakedFood",
-    "BakedVegetable",
+    "Baked Food",
+    "Baked Vegetable",
     "Food"
   ],
   "CamasMash": [
@@ -1277,7 +1277,7 @@
     "Clothes"
   ],
   "Campfire": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Campfire Cooking Upgrade": [
     "Upgrade"
@@ -1309,7 +1309,7 @@
   "CampfireBison": [
     "Food"
   ],
-  "CampfireCookingBasicUpgrade": [
+  "CampfireCookingBasic Upgrade": [
     "Upgrade"
   ],
   "CampfireCookingUpgrade": [
@@ -1343,7 +1343,7 @@
     "Food"
   ],
   "Campsite": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Candle Stand": [
     "Housing"
@@ -1381,18 +1381,18 @@
   "CarpentryAdvancedUpgrade": [
     "Upgrade"
   ],
-  "CarpentryBasicUpgrade": [
+  "CarpentryBasic Upgrade": [
     "Upgrade"
   ],
   "CarpentrySkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "CarpentrySkillScroll": [
     "SkillScrolls"
   ],
   "CarpentryTable": [
-    "CraftingTable",
-    "HasTableSurface"
+    "Crafting Table",
+    "Has Table Surface"
   ],
   "Cart": [
     "Vehicles"
@@ -1432,7 +1432,7 @@
     "Parts"
   ],
   "CastIronBed": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
@@ -1448,23 +1448,23 @@
     "Parts"
   ],
   "CastIronPlaque": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "CastIronRoyalBed": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "CastIronStove": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "CastIronTable": [
     "Housing",
     "Mountable"
   ],
   "Cedar Log": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Softwood",
     "Wood"
@@ -1474,10 +1474,10 @@
     "Seeds"
   ],
   "CedarLatticeSlidingDoor": [
-    "LargeDoor"
+    "Large Door"
   ],
   "CedarLog": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Softwood",
     "Wood"
@@ -1487,7 +1487,7 @@
     "Seeds"
   ],
   "Ceiba Log": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Hardwood",
     "Wood"
@@ -1497,7 +1497,7 @@
     "Seeds"
   ],
   "CeibaLog": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Hardwood",
     "Wood"
@@ -1513,10 +1513,10 @@
     "Housing"
   ],
   "CementKiln": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "CensusBureau": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Cereal Germ": [
     "Food"
@@ -1531,7 +1531,7 @@
     "Housing"
   ],
   "Charcoal": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Coal",
     "Fuel"
   ],
@@ -1545,106 +1545,106 @@
     "Metal"
   ],
   "Charred Agave": [
-    "CharredGreen",
+    "Charred Green",
     "Food"
   ],
   "Charred Beans": [
-    "CharredVegetable",
+    "Charred Vegetable",
     "Food"
   ],
   "Charred Beet": [
-    "CharredVegetable",
+    "Charred Vegetable",
     "Food"
   ],
   "Charred Cactus Fruit": [
-    "CharredFruit",
+    "Charred Fruit",
     "Food"
   ],
   "Charred Camas Bulb": [
-    "CharredVegetable",
+    "Charred Vegetable",
     "Food"
   ],
   "Charred Corn": [
-    "CharredVegetable",
+    "Charred Vegetable",
     "Food"
   ],
   "Charred Fireweed Shoots": [
-    "CharredGreen",
+    "Charred Green",
     "Food"
   ],
   "Charred Fish": [
     "Food"
   ],
   "Charred Heart Of Palm": [
-    "CharredVegetable",
+    "Charred Vegetable",
     "Food"
   ],
   "Charred Meat": [
     "Food"
   ],
   "Charred Mushrooms": [
-    "CharredVegetable",
+    "Charred Vegetable",
     "Food"
   ],
   "Charred Papaya": [
-    "CharredFruit",
+    "Charred Fruit",
     "Food"
   ],
   "Charred Pineapple": [
-    "CharredFruit",
+    "Charred Fruit",
     "Food"
   ],
   "Charred Sausage": [
     "Food"
   ],
   "Charred Taro": [
-    "CharredVegetable",
+    "Charred Vegetable",
     "Food"
   ],
   "Charred Tomato": [
-    "CharredVegetable",
+    "Charred Vegetable",
     "Food"
   ],
   "CharredAgave": [
-    "CharredGreen",
+    "Charred Green",
     "Food"
   ],
   "CharredBeans": [
-    "CharredVegetable",
+    "Charred Vegetable",
     "Food"
   ],
   "CharredBeet": [
-    "CharredVegetable",
+    "Charred Vegetable",
     "Food"
   ],
   "CharredCactusFruit": [
-    "CharredFruit",
+    "Charred Fruit",
     "Food"
   ],
   "CharredCamasBulb": [
-    "CharredVegetable",
+    "Charred Vegetable",
     "Food"
   ],
   "CharredCane": [
     "Food"
   ],
   "CharredCorn": [
-    "CharredVegetable",
+    "Charred Vegetable",
     "Food"
   ],
   "CharredFiddleheads": [
-    "CharredGreen",
+    "Charred Green",
     "Food"
   ],
   "CharredFireweedShoots": [
-    "CharredGreen",
+    "Charred Green",
     "Food"
   ],
   "CharredFish": [
     "Food"
   ],
   "CharredHeartOfPalm": [
-    "CharredVegetable",
+    "Charred Vegetable",
     "Food"
   ],
   "CharredMeat": [
@@ -1654,26 +1654,26 @@
     "Food"
   ],
   "CharredMushrooms": [
-    "CharredVegetable",
+    "Charred Vegetable",
     "Food"
   ],
   "CharredPapaya": [
-    "CharredFruit",
+    "Charred Fruit",
     "Food"
   ],
   "CharredPineapple": [
-    "CharredFruit",
+    "Charred Fruit",
     "Food"
   ],
   "CharredSausage": [
     "Food"
   ],
   "CharredTaro": [
-    "CharredVegetable",
+    "Charred Vegetable",
     "Food"
   ],
   "CharredTomato": [
-    "CharredFruit",
+    "Charred Fruit",
     "Food"
   ],
   "CheckeredRug": [
@@ -1707,7 +1707,7 @@
     "Clothes"
   ],
   "ChemistrySkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "ChemistrySkillScroll": [
     "SkillScrolls"
@@ -1754,7 +1754,7 @@
   ],
   "Cod": [
     "Fish",
-    "MediumFish"
+    "Medium Fish"
   ],
   "CombustionEngine": [
     "Parts"
@@ -1768,8 +1768,8 @@
     "Mountable"
   ],
   "Composite Birch Lumber": [
-    "CompositeLumber",
-    "HardwoodLumber"
+    "Composite Lumber",
+    "Hardwood Lumber"
   ],
   "Composite Birch Table": [
     "Housing"
@@ -1786,8 +1786,8 @@
     "Mountable"
   ],
   "Composite Cedar Lumber": [
-    "CompositeLumber",
-    "SoftwoodLumber"
+    "Composite Lumber",
+    "Softwood Lumber"
   ],
   "Composite Cedar Table": [
     "Housing"
@@ -1801,15 +1801,15 @@
     "Mountable"
   ],
   "Composite Ceiba Lumber": [
-    "CompositeLumber",
-    "HardwoodLumber"
+    "Composite Lumber",
+    "Hardwood Lumber"
   ],
   "Composite Ceiba Table": [
     "Housing"
   ],
   "Composite Filler": [
     "Fertilizer",
-    "FertilizerFiller"
+    "Fertilizer Filler"
   ],
   "Composite Fir Bench": [
     "Housing",
@@ -1820,8 +1820,8 @@
     "Mountable"
   ],
   "Composite Fir Lumber": [
-    "CompositeLumber",
-    "SoftwoodLumber"
+    "Composite Lumber",
+    "Softwood Lumber"
   ],
   "Composite Fir Table": [
     "Housing"
@@ -1846,13 +1846,13 @@
     "Mountable"
   ],
   "Composite Joshua Lumber": [
-    "CompositeLumber"
+    "Composite Lumber"
   ],
   "Composite Joshua Table": [
     "Housing"
   ],
   "Composite Lumber": [
-    "CompositeLumber"
+    "Composite Lumber"
   ],
   "Composite Lumber Bench": [
     "Housing",
@@ -1874,8 +1874,8 @@
     "Mountable"
   ],
   "Composite Oak Lumber": [
-    "CompositeLumber",
-    "HardwoodLumber"
+    "Composite Lumber",
+    "Hardwood Lumber"
   ],
   "Composite Oak Table": [
     "Housing"
@@ -1889,7 +1889,7 @@
     "Mountable"
   ],
   "Composite Palm Lumber": [
-    "CompositeLumber"
+    "Composite Lumber"
   ],
   "Composite Palm Table": [
     "Housing"
@@ -1903,8 +1903,8 @@
     "Mountable"
   ],
   "Composite Redwood Lumber": [
-    "CompositeLumber",
-    "SoftwoodLumber"
+    "Composite Lumber",
+    "Softwood Lumber"
   ],
   "Composite Redwood Table": [
     "Housing"
@@ -1918,7 +1918,7 @@
     "Mountable"
   ],
   "Composite Saguaro Lumber": [
-    "CompositeLumber"
+    "Composite Lumber"
   ],
   "Composite Saguaro Table": [
     "Housing"
@@ -1943,91 +1943,88 @@
     "Mountable"
   ],
   "Composite Spruce Lumber": [
-    "CompositeLumber"
+    "Composite Lumber"
   ],
   "Composite Spruce Table": [
     "Housing"
   ],
   "CompositeBirchLumber": [
-    "CompositeLumber",
-    "HardwoodLumber"
+    "Composite Lumber",
+    "Hardwood Lumber"
   ],
   "CompositeBow": [
     "Tool"
   ],
   "CompositeCedarLumber": [
-    "CompositeLumber",
-    "SoftwoodLumber"
+    "Composite Lumber",
+    "Softwood Lumber"
   ],
   "CompositeCeibaLumber": [
-    "CompositeLumber",
-    "HardwoodLumber"
+    "Composite Lumber",
+    "Hardwood Lumber"
   ],
   "CompositeFiller": [
     "Fertilizer",
-    "FertilizerFiller"
+    "Fertilizer Filler"
   ],
   "CompositeFirLumber": [
-    "CompositeLumber",
-    "SoftwoodLumber"
+    "Composite Lumber",
+    "Softwood Lumber"
   ],
   "CompositeJoshuaLumber": [
-    "CompositeLumber"
+    "Composite Lumber"
   ],
-  "CompositeLumber": [
-    "CompositeLumber"
-  ],
-  "CompositeLumberBench": [
+  "Composite LumberBench": [
     "Housing",
     "Mountable"
   ],
-  "CompositeLumberChair": [
+  "Composite LumberChair": [
     "Housing",
     "Mountable"
   ],
-  "CompositeLumberDoor": [
-    "LargeDoor"
+  "Composite LumberDoor": [
+    "Large Door"
   ],
-  "CompositeLumberDresser": [
-    "CanBeOnRug",
+  "Composite LumberDresser": [
+    "Can Be On Rug",
     "Housing"
   ],
-  "CompositeLumberTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+  "Composite LumberTable": [
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
   "CompositeOakLumber": [
-    "CompositeLumber",
-    "HardwoodLumber"
+    "Composite Lumber",
+    "Hardwood Lumber"
   ],
   "CompositePalmLumber": [
-    "CompositeLumber"
+    "Composite Lumber"
   ],
   "CompositeRedwoodLumber": [
-    "CompositeLumber",
-    "SoftwoodLumber"
+    "Composite Lumber",
+    "Softwood Lumber"
   ],
   "CompositeSaguaroLumber": [
-    "CompositeLumber"
+    "Composite Lumber"
   ],
   "CompositeSpruceLumber": [
-    "CompositeLumber"
+    "Composite Lumber"
   ],
   "Composites Upgrade": [
     "Upgrade"
   ],
   "CompositesFactory": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "CompositesSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "CompositesUpgrade": [
     "Upgrade"
   ],
   "Compost": [
-    "NaturalFiber"
+    "Natural Fiber"
   ],
   "Compost Fertilizer": [
     "Fertilizer"
@@ -2035,8 +2032,8 @@
   "CompostFertilizer": [
     "Fertilizer"
   ],
-  "ConcentratedOre": [
-    "ConcentratedOre"
+  "Concentrated Ore": [
+    "Concentrated Ore"
   ],
   "Concrete": [
     "Concrete"
@@ -2045,14 +2042,14 @@
     "Settlement"
   ],
   "ContextBasedActionsGuide": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "ContractBoard": [
-    "CraftingTable",
+    "Crafting Table",
     "Settlement"
   ],
   "Cookeina Mushroom Spores": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -2060,10 +2057,10 @@
     "Crop",
     "Food",
     "Fungus",
-    "RawFood"
+    "Raw Food"
   ],
   "CookeinaMushroomSpores": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -2071,13 +2068,13 @@
     "Crop",
     "Food",
     "Fungus",
-    "RawFood"
+    "Raw Food"
   ],
   "Cooking Upgrade": [
     "Upgrade"
   ],
   "CookingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "CookingSkillScroll": [
     "SkillScrolls"
@@ -2092,7 +2089,7 @@
     "Metal"
   ],
   "Copper Concentrate": [
-    "ConcentratedOre"
+    "Concentrated Ore"
   ],
   "Copper Frame Landscape": [
     "Housing"
@@ -2119,7 +2116,7 @@
     "Metal"
   ],
   "CopperConcentrate": [
-    "ConcentratedOre"
+    "Concentrated Ore"
   ],
   "CopperFrameLandscape": [
     "Housing"
@@ -2154,14 +2151,14 @@
   "Corn": [
     "Crop",
     "Food",
-    "RawFood",
+    "Raw Food",
     "Vegetable"
   ],
   "Corn Fritters": [
     "Food"
   ],
   "Corn Seed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -2169,7 +2166,7 @@
     "Food"
   ],
   "CornSeed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -2180,19 +2177,19 @@
     "Food"
   ],
   "CorrugatedSteelDoor": [
-    "LargeDoor"
+    "Large Door"
   ],
   "CorrugatedSteelFenceDoor": [
-    "LargeDoor"
+    "Large Door"
   ],
   "CorrugatedSteelLantern": [
     "Housing"
   ],
   "CorrugatedSteelWindow": [
-    "LargeDoor"
+    "Large Door"
   ],
   "Cotton": [
-    "NaturalFiber"
+    "Natural Fiber"
   ],
   "Cotton Boll": [
     "Crop"
@@ -2238,17 +2235,17 @@
     "Settlement"
   ],
   "Court": [
-    "CraftingTable",
+    "Crafting Table",
     "Settlement"
   ],
   "Court Chair": [
     "Mountable"
   ],
   "Coyote Carcass": [
-    "SmallCarcass"
+    "Small Carcass"
   ],
   "CoyoteCarcass": [
-    "SmallCarcass"
+    "Small Carcass"
   ],
   "CozyPlatformBed": [
     "Housing",
@@ -2256,16 +2253,16 @@
   ],
   "Crab": [
     "Fish",
-    "MediumFish"
+    "Medium Fish"
   ],
   "Crab Carcass": [
-    "SmallFish"
+    "Small Fish"
   ],
   "CrabCarcass": [
-    "SmallFish"
+    "Small Fish"
   ],
   "CrabPot": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Crane": [
     "Mountable",
@@ -2290,7 +2287,7 @@
     "Petals"
   ],
   "Crimini Mushroom Spores": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -2298,10 +2295,10 @@
     "Crop",
     "Food",
     "Fungus",
-    "RawFood"
+    "Raw Food"
   ],
   "CriminiMushroomSpores": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -2309,7 +2306,7 @@
     "Crop",
     "Food",
     "Fungus",
-    "RawFood"
+    "Raw Food"
   ],
   "Crimson Salad": [
     "Food"
@@ -2327,102 +2324,102 @@
     "Clothes"
   ],
   "Crushed Basalt": [
-    "CrushedRock"
+    "Crushed Rock"
   ],
   "Crushed Coal": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Coal",
     "Fuel"
   ],
   "Crushed Gneiss": [
-    "CrushedRock"
+    "Crushed Rock"
   ],
   "Crushed Granite": [
-    "CrushedRock",
+    "Crushed Rock",
     "Silica"
   ],
   "Crushed Limestone": [
-    "CrushedRock"
+    "Crushed Rock"
   ],
   "Crushed Mixed Rock": [
-    "CrushedRock"
+    "Crushed Rock"
   ],
   "Crushed Sandstone": [
-    "CrushedRock",
+    "Crushed Rock",
     "Silica"
   ],
   "Crushed Shale": [
-    "CrushedRock"
+    "Crushed Rock"
   ],
   "Crushed Slag": [
-    "CrushedRock"
+    "Crushed Rock"
   ],
   "CrushedBasalt": [
-    "CrushedRock"
+    "Crushed Rock"
   ],
   "CrushedCoal": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Coal",
     "Fuel"
   ],
   "CrushedGneiss": [
-    "CrushedRock"
+    "Crushed Rock"
   ],
   "CrushedGranite": [
-    "CrushedRock"
+    "Crushed Rock"
   ],
   "CrushedLimestone": [
-    "CrushedRock"
+    "Crushed Rock"
   ],
   "CrushedMixedRock": [
-    "CrushedRock"
+    "Crushed Rock"
   ],
   "CrushedOreConcentrate": [
-    "ConcentratedOre"
+    "Concentrated Ore"
   ],
   "CrushedSandstone": [
-    "CrushedRock",
+    "Crushed Rock",
     "Silica"
   ],
   "CrushedShale": [
-    "CrushedRock"
+    "Crushed Rock"
   ],
   "CrushedSlag": [
-    "CrushedRock"
+    "Crushed Rock"
   ],
   "Culinary Research Paper Advanced": [
-    "AdvancedResearch",
+    "Advanced Research",
     "Research"
   ],
   "Culinary Research Paper Basic": [
-    "BasicResearch",
+    "Basic Research",
     "Research"
   ],
   "Culinary Research Paper Modern": [
-    "ModernResearch",
+    "Modern Research",
     "Research"
   ],
   "CulinaryResearchPaperAdvanced": [
-    "AdvancedResearch",
+    "Advanced Research",
     "Research"
   ],
   "CulinaryResearchPaperBasic": [
-    "BasicResearch",
+    "Basic Research",
     "Research"
   ],
   "CulinaryResearchPaperModern": [
-    "ModernResearch",
+    "Modern Research",
     "Research"
   ],
   "CurrencyExchange": [
-    "CraftingTable",
+    "Crafting Table",
     "Settlement"
   ],
   "Cutting Edge Cooking Upgrade": [
     "Upgrade"
   ],
   "CuttingEdgeCookingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "CuttingEdgeCookingSkillScroll": [
     "SkillScrolls"
@@ -2464,15 +2461,15 @@
     "Housing"
   ],
   "Deer Carcass": [
-    "MediumCarcass",
-    "MediumLeatherCarcass"
+    "Medium Carcass",
+    "Medium Leather Carcass"
   ],
   "Deer Pelt": [
     "Housing"
   ],
   "DeerCarcass": [
-    "MediumCarcass",
-    "MediumLeatherCarcass"
+    "Medium Carcass",
+    "Medium Leather Carcass"
   ],
   "DeerMount": [
     "Housing"
@@ -2484,27 +2481,27 @@
     "Settlement"
   ],
   "Dendrology Research Paper Advanced": [
-    "AdvancedResearch",
+    "Advanced Research",
     "Research"
   ],
   "Dendrology Research Paper Basic": [
-    "BasicResearch",
+    "Basic Research",
     "Research"
   ],
   "Dendrology Research Paper Modern": [
-    "ModernResearch",
+    "Modern Research",
     "Research"
   ],
   "DendrologyResearchPaperAdvanced": [
-    "AdvancedResearch",
+    "Advanced Research",
     "Research"
   ],
   "DendrologyResearchPaperBasic": [
-    "BasicResearch",
+    "Basic Research",
     "Research"
   ],
   "DendrologyResearchPaperModern": [
-    "ModernResearch",
+    "Modern Research",
     "Research"
   ],
   "Denim": [
@@ -2523,10 +2520,10 @@
     "Road"
   ],
   "DoorFrame": [
-    "LargeDoor"
+    "Large Door"
   ],
   "DoubleHungWindow": [
-    "LargeDoor"
+    "Large Door"
   ],
   "Dried Fish": [
     "Food"
@@ -2570,26 +2567,26 @@
     "Housing"
   ],
   "ElectricLathe": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "ElectricMachinistTable": [
-    "CraftingTable",
-    "HasTableSurface"
+    "Crafting Table",
+    "Has Table Surface"
   ],
   "ElectricMotor": [
     "Parts"
   ],
   "ElectricPlaner": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "ElectricStampingPress": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "ElectricalBoard": [
     "Housing"
   ],
   "ElectricalSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "ElectricalSkillScroll": [
     "SkillScrolls"
@@ -2598,13 +2595,13 @@
     "Upgrade"
   ],
   "ElectronicsAssembly": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "ElectronicsFactory": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "ElectronicsSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "ElectronicsSkillScroll": [
     "SkillScrolls"
@@ -2616,11 +2613,11 @@
     "Parts"
   ],
   "ElevatorShaft": [
-    "LargeDoor"
+    "Large Door"
   ],
   "Elk Carcass": [
-    "MediumCarcass",
-    "MediumLeatherCarcass"
+    "Medium Carcass",
+    "Medium Leather Carcass"
   ],
   "Elk Mount": [
     "Housing"
@@ -2632,8 +2629,8 @@
     "Food"
   ],
   "ElkCarcass": [
-    "MediumCarcass",
-    "MediumLeatherCarcass"
+    "Medium Carcass",
+    "Medium Leather Carcass"
   ],
   "ElkMount": [
     "Housing"
@@ -2654,19 +2651,19 @@
     "Parts"
   ],
   "Engineering Research Paper Advanced": [
-    "AdvancedResearch",
+    "Advanced Research",
     "Research"
   ],
   "Engineering Research Paper Modern": [
-    "ModernResearch",
+    "Modern Research",
     "Research"
   ],
   "EngineeringResearchPaperAdvanced": [
-    "AdvancedResearch",
+    "Advanced Research",
     "Research"
   ],
   "EngineeringResearchPaperModern": [
-    "ModernResearch",
+    "Modern Research",
     "Research"
   ],
   "EnterpriseBoots": [
@@ -2761,17 +2758,17 @@
     "Food"
   ],
   "Far East Lumber": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Lumber"
   ],
   "FarEastLumber": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Lumber"
   ],
   "FarmPlot": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Farmer Boots": [
     "Clothes"
@@ -2798,15 +2795,15 @@
     "Clothes"
   ],
   "FarmersTable": [
-    "CanBeOnRug",
-    "CraftingTable",
-    "HasTableSurface"
+    "Can Be On Rug",
+    "Crafting Table",
+    "Has Table Surface"
   ],
   "Farming Upgrade": [
     "Upgrade"
   ],
   "FarmingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "FarmingSkillScroll": [
     "SkillScrolls"
@@ -2824,20 +2821,20 @@
     "Settlement"
   ],
   "Fern Campfire Salad": [
-    "CampfireSalad",
+    "Campfire Salad",
     "Food"
   ],
   "Fern Spore": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
-  "FernCampfireSalad": [
-    "CampfireSalad",
+  "FernCampfire Salad": [
+    "Campfire Salad",
     "Food"
   ],
   "FernSpore": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -2845,7 +2842,7 @@
     "Upgrade"
   ],
   "FertilizersSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "FertilizersSkillScroll": [
     "SkillScrolls"
@@ -2855,15 +2852,15 @@
   ],
   "Fiber Filler": [
     "Fertilizer",
-    "FertilizerFiller"
+    "Fertilizer Filler"
   ],
   "FiberFiller": [
     "Fertilizer",
-    "FertilizerFiller"
+    "Fertilizer Filler"
   ],
   "FiberScutchingStation": [
-    "CanBeOnRug",
-    "CraftingTable"
+    "Can Be On Rug",
+    "Crafting Table"
   ],
   "Fiberglass": [
     "Parts"
@@ -2872,7 +2869,7 @@
     "Crop",
     "Food",
     "Greens",
-    "RawFood"
+    "Raw Food"
   ],
   "Field Campfire Stew": [
     "Food"
@@ -2889,7 +2886,7 @@
     "Seeds"
   ],
   "Fir Log": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Softwood",
     "Wood"
@@ -2899,7 +2896,7 @@
     "Seeds"
   ],
   "FirLog": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Softwood",
     "Wood"
@@ -2909,7 +2906,7 @@
     "Seeds"
   ],
   "Fireweed Seed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -2917,13 +2914,13 @@
     "Crop",
     "Food",
     "Greens",
-    "RawFood"
+    "Raw Food"
   ],
   "FireweedSalad": [
     "Food"
   ],
   "FireweedSeed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -2931,7 +2928,7 @@
     "Crop",
     "Food",
     "Greens",
-    "RawFood"
+    "Raw Food"
   ],
   "Fish Kites": [
     "Housing"
@@ -2943,7 +2940,7 @@
     "Food"
   ],
   "FishRack": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "FishStew": [
     "Food"
@@ -2952,17 +2949,17 @@
     "Housing"
   ],
   "Fishery": [
-    "CanBeOnRug",
-    "CraftingTable"
+    "Can Be On Rug",
+    "Crafting Table"
   ],
   "FlatSteelDoor": [
-    "LargeDoor"
+    "Large Door"
   ],
   "Flatbread": [
     "Food"
   ],
   "Flax Seed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -2973,7 +2970,7 @@
     "Tool"
   ],
   "FlaxSeed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -2996,8 +2993,8 @@
     "Oil"
   ],
   "FletchingTable": [
-    "CraftingTable",
-    "HasTableSurface"
+    "Crafting Table",
+    "Has Table Surface"
   ],
   "Flour": [
     "Food"
@@ -3006,68 +3003,68 @@
     "Housing"
   ],
   "Fox Carcass": [
-    "SmallCarcass"
+    "Small Carcass"
   ],
   "Fox Pelt": [
     "Housing"
   ],
   "FoxCarcass": [
-    "SmallCarcass"
+    "Small Carcass"
   ],
   "FramedGlassDoor": [
-    "LargeDoor"
+    "Large Door"
   ],
   "Fried Camas": [
     "Food",
-    "FriedVegetable"
+    "Fried Vegetable"
   ],
   "Fried Fiddleheads": [
     "Food",
-    "FriedVegetable"
+    "Fried Vegetable"
   ],
   "Fried Hare Haunches": [
     "Food"
   ],
   "Fried Hearts Of Palm": [
     "Food",
-    "FriedVegetable"
+    "Fried Vegetable"
   ],
   "Fried Taro": [
     "Food",
-    "FriedVegetable"
+    "Fried Vegetable"
   ],
   "Fried Tomatoes": [
     "Food",
-    "FriedVegetable"
+    "Fried Vegetable"
   ],
   "FriedCamas": [
     "Food",
-    "FriedVegetable"
+    "Fried Vegetable"
   ],
   "FriedFiddleheads": [
     "Food",
-    "FriedVegetable"
+    "Fried Vegetable"
   ],
   "FriedHareHaunches": [
     "Food"
   ],
   "FriedHeartsOfPalm": [
     "Food",
-    "FriedVegetable"
+    "Fried Vegetable"
   ],
   "FriedTaro": [
     "Food",
-    "FriedVegetable"
+    "Fried Vegetable"
   ],
   "FriedTomatoes": [
     "Food",
-    "FriedVegetable"
+    "Fried Vegetable"
   ],
   "Friendly Scarecrow": [
     "Housing"
   ],
   "FrothFloatationCell": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Fruit Muffin": [
     "Food"
@@ -3090,16 +3087,16 @@
     "Food"
   ],
   "Fryer": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Fulton": [
     "Fuel"
   ],
   "Fur Pelt": [
-    "AnimalSkin"
+    "Animal Skin"
   ],
   "FurPelt": [
-    "AnimalSkin"
+    "Animal Skin"
   ],
   "Fuse": [
     "Parts"
@@ -3111,10 +3108,10 @@
     "Clothes"
   ],
   "GalleyKitchen": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Garbage": [
-    "NaturalFiber"
+    "Natural Fiber"
   ],
   "Garden Boots": [
     "Clothes"
@@ -3130,7 +3127,7 @@
   ],
   "Gasoline": [
     "Fuel",
-    "LiquidFuel"
+    "Liquid Fuel"
   ],
   "GathererBoots": [
     "Clothes"
@@ -3154,57 +3151,57 @@
     "Upgrade"
   ],
   "Gathering Research Paper Basic": [
-    "BasicResearch",
+    "Basic Research",
     "Research"
   ],
   "GatheringAdvancedUpgrade": [
     "Upgrade"
   ],
-  "GatheringBasicUpgrade": [
+  "GatheringBasic Upgrade": [
     "Upgrade"
   ],
   "GatheringResearchPaperBasic": [
-    "BasicResearch",
+    "Basic Research",
     "Research"
   ],
   "Gearbox": [
     "Parts"
   ],
   "Geology Research Paper Advanced": [
-    "AdvancedResearch",
+    "Advanced Research",
     "Research"
   ],
   "Geology Research Paper Basic": [
-    "BasicResearch",
+    "Basic Research",
     "Research"
   ],
   "Geology Research Paper Modern": [
-    "ModernResearch",
+    "Modern Research",
     "Research"
   ],
   "GeologyResearchPaperAdvanced": [
-    "AdvancedResearch",
+    "Advanced Research",
     "Research"
   ],
   "GeologyResearchPaperBasic": [
-    "BasicResearch",
+    "Basic Research",
     "Research"
   ],
   "GeologyResearchPaperModern": [
-    "ModernResearch",
+    "Modern Research",
     "Research"
   ],
   "Giant Cactus Fruit": [
     "Crop",
     "Food",
     "Fruit",
-    "RawFood"
+    "Raw Food"
   ],
   "GiantCactusFruit": [
     "Crop",
     "Food",
     "Fruit",
-    "RawFood"
+    "Raw Food"
   ],
   "Gigot Sleeve Shirt": [
     "Clothes"
@@ -3221,18 +3218,18 @@
   "GlassworkingAdvancedUpgrade": [
     "Upgrade"
   ],
-  "GlassworkingModernUpgrade": [
+  "GlassworkingModern Upgrade": [
     "Upgrade"
   ],
   "GlassworkingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "GlassworkingSkillScroll": [
     "SkillScrolls"
   ],
   "Glassworks": [
-    "CanBeOnRug",
-    "CraftingTable"
+    "Can Be On Rug",
+    "Crafting Table"
   ],
   "Gneiss": [
     "Rock"
@@ -3250,7 +3247,7 @@
     "Metal"
   ],
   "Gold Concentrate": [
-    "ConcentratedOre"
+    "Concentrated Ore"
   ],
   "Gold Frame Landscape": [
     "Housing"
@@ -3274,7 +3271,7 @@
     "Metal"
   ],
   "GoldConcentrate": [
-    "ConcentratedOre"
+    "Concentrated Ore"
   ],
   "GoldFrameLandscape": [
     "Housing"
@@ -3333,7 +3330,7 @@
     "Parts"
   ],
   "Grindstone": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Hammer": [
     "Tool"
@@ -3359,17 +3356,17 @@
     "Housing"
   ],
   "Hardwood Board": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
-    "WoodBoard"
+    "Wood Board"
   ],
   "Hardwood Hewn Log": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "HewnLog"
   ],
   "Hardwood Lumber": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Lumber"
   ],
@@ -3387,46 +3384,41 @@
   "Hardwood Lumber Table": [
     "Housing"
   ],
-  "HardwoodBoard": [
-    "BurnableFuel",
+  "HardWood Board": [
+    "Burnable Fuel",
     "Fuel",
-    "WoodBoard"
+    "Wood Board"
   ],
   "HardwoodHewnLog": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "HewnLog"
   ],
-  "HardwoodLumber": [
-    "BurnableFuel",
-    "Fuel",
-    "Lumber"
-  ],
-  "HardwoodLumberBench": [
+  "Hardwood LumberBench": [
     "Housing",
     "Mountable"
   ],
-  "HardwoodLumberChair": [
+  "Hardwood LumberChair": [
     "Housing",
     "Mountable"
   ],
-  "HardwoodLumberDresser": [
-    "CanBeOnRug",
+  "Hardwood LumberDresser": [
+    "Can Be On Rug",
     "Housing"
   ],
-  "HardwoodLumberTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+  "Hardwood LumberTable": [
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
   "Hare Carcass": [
-    "TinyCarcass"
+    "Tiny Carcass"
   ],
   "Hare Pelt": [
     "Housing"
   ],
   "HareCarcass": [
-    "TinyCarcass"
+    "Tiny Carcass"
   ],
   "HareStew": [
     "Food"
@@ -3437,13 +3429,13 @@
   "Heart Of Palm": [
     "Crop",
     "Food",
-    "RawFood",
+    "Raw Food",
     "Vegetable"
   ],
   "HeartOfPalm": [
     "Crop",
     "Food",
-    "RawFood",
+    "Raw Food",
     "Vegetable"
   ],
   "Hearty Hometown Pizza": [
@@ -3461,7 +3453,7 @@
     "Seeds"
   ],
   "Hemp": [
-    "NaturalFiber"
+    "Natural Fiber"
   ],
   "HempMooringRope": [
     "Parts"
@@ -3492,7 +3484,7 @@
     "Housing"
   ],
   "Hewn Log": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "HewnLog"
   ],
@@ -3522,29 +3514,29 @@
     "Mountable"
   ],
   "HewnDoor": [
-    "LargeDoor"
+    "Large Door"
   ],
   "HewnDresser": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "HewnLog": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "HewnLog"
   ],
   "HewnLogDoor": [
-    "LargeDoor"
+    "Large Door"
   ],
   "HewnNightstand": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "HewnSoftwoodDoor": [
-    "LargeDoor"
+    "Large Door"
   ],
   "HewnTable": [
-    "HasTableSurface",
+    "Has Table Surface",
     "Housing"
   ],
   "Hide Ash Fertilizer": [
@@ -3563,7 +3555,7 @@
     "Crop",
     "Food",
     "Fruit",
-    "RawFood"
+    "Raw Food"
   ],
   "Huckleberry Extract": [
     "Food"
@@ -3575,7 +3567,7 @@
     "Food"
   ],
   "Huckleberry Seed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -3592,7 +3584,7 @@
     "Food"
   ],
   "HuckleberrySeed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -3600,7 +3592,7 @@
     "Upgrade"
   ],
   "HuntingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "HuntingSkillScroll": [
     "SkillScrolls"
@@ -3629,13 +3621,13 @@
     "Vehicles"
   ],
   "IndustrialMill": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Industry Upgrade": [
     "Upgrade"
   ],
   "IndustrySkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "IndustrySkillScroll": [
     "SkillScrolls"
@@ -3650,7 +3642,7 @@
     "Food"
   ],
   "InjectionMoldMachine": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Iron Axe": [
     "Tool"
@@ -3659,7 +3651,7 @@
     "Metal"
   ],
   "Iron Concentrate": [
-    "ConcentratedOre"
+    "Concentrated Ore"
   ],
   "Iron Frame Landscape": [
     "Housing"
@@ -3716,7 +3708,7 @@
     "Metal"
   ],
   "IronConcentrate": [
-    "ConcentratedOre"
+    "Concentrated Ore"
   ],
   "IronFrameLandscape": [
     "Housing"
@@ -3795,18 +3787,18 @@
     "Parts"
   ],
   "Jaguar Carcass": [
-    "MediumCarcass",
-    "MediumLeatherCarcass"
+    "Medium Carcass",
+    "Medium Leather Carcass"
   ],
   "JaguarCarcass": [
-    "MediumCarcass",
-    "MediumLeatherCarcass"
+    "Medium Carcass",
+    "Medium Leather Carcass"
   ],
   "JaguarMount": [
     "Housing"
   ],
   "JawCrusher": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Jerky": [
     "Food"
@@ -3820,7 +3812,7 @@
     "Seeds"
   ],
   "Joshua Log": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Wood"
   ],
@@ -3829,7 +3821,7 @@
     "Seeds"
   ],
   "JoshuaLog": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Wood"
   ],
@@ -3838,14 +3830,14 @@
     "Seeds"
   ],
   "Jungle Campfire Salad": [
-    "CampfireSalad",
+    "Campfire Salad",
     "Food"
   ],
   "Jungle Campfire Stew": [
     "Food"
   ],
-  "JungleCampfireSalad": [
-    "CampfireSalad",
+  "JungleCampfire Salad": [
+    "Campfire Salad",
     "Food"
   ],
   "JungleCampfireStew": [
@@ -3853,13 +3845,13 @@
   ],
   "Kelp": [
     "Crop",
-    "NaturalFiber"
+    "Natural Fiber"
   ],
   "Kelpy Crab Roll": [
     "Food"
   ],
   "Kiln": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "King Fern Spore": [
     "Food",
@@ -3870,8 +3862,8 @@
     "Seeds"
   ],
   "Kitchen": [
-    "CraftingTable",
-    "HasTableSurface",
+    "Crafting Table",
+    "Has Table Surface",
     "Housing"
   ],
   "Kite": [
@@ -3881,11 +3873,11 @@
     "Housing"
   ],
   "Laboratories": [
-    "AdvancedResearch",
-    "CraftingTable"
+    "Advanced Research",
+    "Crafting Table"
   ],
   "Laboratory": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Large Bath Mat": [
     "Housing"
@@ -3895,7 +3887,7 @@
     "Vehicles"
   ],
   "Large Corrugated Steel Door": [
-    "LargeDoor"
+    "Large Door"
   ],
   "Large Cotton Bunting Festive": [
     "Housing"
@@ -3913,7 +3905,7 @@
     "Housing"
   ],
   "Large Lumber Door": [
-    "LargeDoor"
+    "Large Door"
   ],
   "Large Nylon Bunting Green": [
     "Housing"
@@ -3928,7 +3920,7 @@
     "Housing"
   ],
   "Large Windowed Lumber Door": [
-    "LargeDoor"
+    "Large Door"
   ],
   "LargeBathMat": [
     "Housing"
@@ -3938,7 +3930,7 @@
     "Vehicles"
   ],
   "LargeCorrugatedSteelDoor": [
-    "LargeDoor"
+    "Large Door"
   ],
   "LargeCourt": [
     "Settlement"
@@ -3950,7 +3942,7 @@
     "Housing"
   ],
   "LargeLumberDoor": [
-    "LargeDoor"
+    "Large Door"
   ],
   "LargeMetalMountedCamera": [
     "Housing"
@@ -3974,10 +3966,10 @@
     "Housing"
   ],
   "LargeWindowedLumberDoor": [
-    "LargeDoor"
+    "Large Door"
   ],
   "Lathe": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Latrine": [
     "Housing",
@@ -3992,10 +3984,10 @@
     "Seeds"
   ],
   "Leather Hide": [
-    "AnimalSkin"
+    "Animal Skin"
   ],
   "LeatherHide": [
-    "AnimalSkin"
+    "Animal Skin"
   ],
   "Leavened Dough": [
     "Food"
@@ -4004,7 +3996,7 @@
     "Food"
   ],
   "Library": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Light Backpack": [
     "Clothes"
@@ -4037,19 +4029,19 @@
     "Housing"
   ],
   "LimestoneBisonStatue": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "LimestoneOtterStatue": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "LimestoneOwlStatue": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "LimestoneWolfStatue": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "Linen": [
@@ -4089,17 +4081,17 @@
   "LoggingAdvancedUpgrade": [
     "Upgrade"
   ],
-  "LoggingBasicUpgrade": [
+  "LoggingBasic Upgrade": [
     "Upgrade"
   ],
   "LoggingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "LoggingSkillScroll": [
     "SkillScrolls"
   ],
   "Loom": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "LoomedFabric": [
     "Fabric"
@@ -4114,7 +4106,7 @@
     "Parts"
   ],
   "Lumber": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Lumber"
   ],
@@ -4133,7 +4125,7 @@
     "Housing"
   ],
   "LumberBench": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
@@ -4142,15 +4134,15 @@
     "Mountable"
   ],
   "LumberDoor": [
-    "LargeDoor"
+    "Large Door"
   ],
   "LumberDresser": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "LumberTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
   "Lupine Seed": [
@@ -4171,8 +4163,8 @@
     "Tool"
   ],
   "MachinistTable": [
-    "CraftingTable",
-    "HasTableSurface"
+    "Crafting Table",
+    "Has Table Surface"
   ],
   "Magenta Powder": [
     "Pigment"
@@ -4207,19 +4199,19 @@
   "MasonryAdvancedUpgrade": [
     "Upgrade"
   ],
-  "MasonryBasicUpgrade": [
+  "MasonryBasic Upgrade": [
     "Upgrade"
   ],
   "MasonrySkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "MasonrySkillScroll": [
     "SkillScrolls"
   ],
   "MasonryTable": [
-    "CanBeOnRug",
-    "CraftingTable",
-    "HasTableSurface"
+    "Can Be On Rug",
+    "Crafting Table",
+    "Has Table Surface"
   ],
   "Meat Pie": [
     "Food"
@@ -4248,11 +4240,11 @@
   "MechanicsAdvancedUpgrade": [
     "Upgrade"
   ],
-  "MechanicsModernUpgrade": [
+  "MechanicsModern Upgrade": [
     "Upgrade"
   ],
   "MechanicsSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "MechanicsSkillScroll": [
     "SkillScrolls"
@@ -4261,19 +4253,19 @@
     "Mountable",
     "Vehicles"
   ],
-  "MediumFishingTrawler": [
+  "Medium FishingTrawler": [
     "Mountable",
     "Vehicles"
   ],
   "MediumShipyard": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "MelonSeed": [
     "Food",
     "Seeds"
   ],
   "Mercury": [
-    "NaturalFiber"
+    "Natural Fiber"
   ],
   "MetalBookshelf": [
     "Housing"
@@ -4285,35 +4277,35 @@
     "Vehicles"
   ],
   "Metallurgy Research Paper Advanced": [
-    "AdvancedResearch",
+    "Advanced Research",
     "Research"
   ],
   "Metallurgy Research Paper Basic": [
-    "BasicResearch",
+    "Basic Research",
     "Research"
   ],
   "Metallurgy Research Paper Modern": [
-    "ModernResearch",
+    "Modern Research",
     "Research"
   ],
   "MetallurgyResearchPaperAdvanced": [
-    "AdvancedResearch",
+    "Advanced Research",
     "Research"
   ],
   "MetallurgyResearchPaperBasic": [
-    "BasicResearch",
+    "Basic Research",
     "Research"
   ],
   "MetallurgyResearchPaperModern": [
-    "ModernResearch",
+    "Modern Research",
     "Research"
   ],
   "Milk": [
     "Food"
   ],
   "Mill": [
-    "CanBeOnRug",
-    "CraftingTable",
+    "Can Be On Rug",
+    "Crafting Table",
     "Housing"
   ],
   "MillStone": [
@@ -4323,7 +4315,7 @@
     "Upgrade"
   ],
   "MillingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "MillingSkillScroll": [
     "SkillScrolls"
@@ -4370,23 +4362,23 @@
   "MiningAdvancedUpgrade": [
     "Upgrade"
   ],
-  "MiningBasicUpgrade": [
+  "MiningBasic Upgrade": [
     "Upgrade"
   ],
   "MiningCharge": [
-    "CanBeOnRug"
+    "Can Be On Rug"
   ],
-  "MiningModernUpgrade": [
+  "MiningModern Upgrade": [
     "Upgrade"
   ],
   "MiningSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "MiningSkillScroll": [
     "SkillScrolls"
   ],
   "Mint": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "MixedFruitSalad": [
     "Food"
@@ -4434,19 +4426,19 @@
     "Housing"
   ],
   "Modern Upgrade Lvl1": [
-    "ModernUpgrade",
+    "Modern Upgrade",
     "Upgrade"
   ],
   "Modern Upgrade Lvl2": [
-    "ModernUpgrade",
+    "Modern Upgrade",
     "Upgrade"
   ],
   "Modern Upgrade Lvl3": [
-    "ModernUpgrade",
+    "Modern Upgrade",
     "Upgrade"
   ],
   "Modern Upgrade Lvl4": [
-    "ModernUpgrade",
+    "Modern Upgrade",
     "Upgrade"
   ],
   "ModernAxe": [
@@ -4486,47 +4478,47 @@
   "ModernStreetLight": [
     "Housing"
   ],
-  "ModernUpgrade1": [
-    "ModernUpgrade",
+  "Modern Upgrade1": [
+    "Modern Upgrade",
     "Upgrade"
   ],
-  "ModernUpgrade2": [
-    "ModernUpgrade",
+  "Modern Upgrade2": [
+    "Modern Upgrade",
     "Upgrade"
   ],
-  "ModernUpgrade3": [
-    "ModernUpgrade",
+  "Modern Upgrade3": [
+    "Modern Upgrade",
     "Upgrade"
   ],
-  "ModernUpgrade4": [
-    "ModernUpgrade",
+  "Modern Upgrade4": [
+    "Modern Upgrade",
     "Upgrade"
   ],
-  "ModernUpgradeLvl1": [
-    "ModernUpgrade",
+  "Modern UpgradeLvl1": [
+    "Modern Upgrade",
     "Upgrade"
   ],
-  "ModernUpgradeLvl2": [
-    "ModernUpgrade",
+  "Modern UpgradeLvl2": [
+    "Modern Upgrade",
     "Upgrade"
   ],
-  "ModernUpgradeLvl3": [
-    "ModernUpgrade",
+  "Modern UpgradeLvl3": [
+    "Modern Upgrade",
     "Upgrade"
   ],
   "Moon Jellyfish": [
     "Fish",
-    "SmallFish"
+    "Small Fish"
   ],
   "MoonJellyfish": [
     "Fish",
-    "SmallFish"
+    "Small Fish"
   ],
   "Mortar": [
     "Parts"
   ],
   "Mortared Granite": [
-    "MortaredStone"
+    "Mortared Stone"
   ],
   "Mortared Granite Bench": [
     "Housing",
@@ -4543,7 +4535,7 @@
     "Housing"
   ],
   "Mortared Limestone": [
-    "MortaredStone"
+    "Mortared Stone"
   ],
   "Mortared Limestone Bench": [
     "Housing",
@@ -4560,7 +4552,7 @@
     "Housing"
   ],
   "Mortared Sandstone": [
-    "MortaredStone"
+    "Mortared Stone"
   ],
   "Mortared Sandstone Bench": [
     "Housing",
@@ -4577,7 +4569,7 @@
     "Housing"
   ],
   "Mortared Stone": [
-    "MortaredStone"
+    "Mortared Stone"
   ],
   "Mortared Stone Bench": [
     "Housing",
@@ -4594,15 +4586,15 @@
     "Housing"
   ],
   "MortaredGranite": [
-    "MortaredStone"
+    "Mortared Stone"
   ],
   "MortaredGraniteBench": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "MortaredGraniteChair": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
@@ -4610,20 +4602,20 @@
     "Housing"
   ],
   "MortaredGraniteTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
   "MortaredLimestone": [
-    "MortaredStone"
+    "Mortared Stone"
   ],
   "MortaredLimestoneBench": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "MortaredLimestoneChair": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
@@ -4631,20 +4623,20 @@
     "Housing"
   ],
   "MortaredLimestoneTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
   "MortaredSandstone": [
-    "MortaredStone"
+    "Mortared Stone"
   ],
   "MortaredSandstoneBench": [
-    "CanBeOnRug",
-    "HasTableSurface",
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
   "MortaredSandstoneChair": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
@@ -4652,38 +4644,35 @@
     "Housing"
   ],
   "MortaredSandstoneTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
-  "MortaredStone": [
-    "MortaredStone"
-  ],
-  "MortaredStoneBench": [
-    "CanBeOnRug",
+  "Mortared StoneBench": [
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
-  "MortaredStoneChair": [
-    "CanBeOnRug",
+  "Mortared StoneChair": [
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
-  "MortaredStoneFireplace": [
+  "Mortared StoneFireplace": [
     "Housing"
   ],
-  "MortaredStoneTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+  "Mortared StoneTable": [
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
   "Mountain Goat Carcass": [
-    "MediumCarcass",
-    "MediumWoolyCarcass"
+    "Medium Carcass",
+    "Medium Wooly Carcass"
   ],
   "MountainGoatCarcass": [
-    "MediumCarcass",
-    "MediumWoolyCarcass"
+    "Medium Carcass",
+    "Medium Wooly Carcass"
   ],
   "MountedCamera": [
     "Housing"
@@ -4732,12 +4721,12 @@
     "Fabric"
   ],
   "NylonFutonBed": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "NylonFutonCouch": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
@@ -4748,13 +4737,13 @@
     "Tool"
   ],
   "Oak Log": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Hardwood",
     "Wood"
   ],
   "OakLog": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Hardwood",
     "Wood"
@@ -4788,13 +4777,13 @@
     "Clothes"
   ],
   "OilDrillingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "OilDrillingSkillScroll": [
     "SkillScrolls"
   ],
   "OilRefinery": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "OldGrowthRedwood": [
     "Wood"
@@ -4876,7 +4865,7 @@
     "Housing"
   ],
   "OrnateCastIronPlaque": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "OrnateGoldFrameLandscape": [
@@ -4910,11 +4899,11 @@
     "Housing"
   ],
   "OrnateStonePlaque": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "OrnateWoodPlaque": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "OrnateWoodenFrameLandscape": [
@@ -4933,15 +4922,15 @@
     "Housing"
   ],
   "Otter Carcass": [
-    "TinyCarcass",
-    "TinyFurCarcass"
+    "Tiny Carcass",
+    "Tiny Fur Carcass"
   ],
   "OtterCarcass": [
-    "SmallCarcass",
-    "TinyCarcass"
+    "Small Carcass",
+    "Tiny Carcass"
   ],
   "OutpostTable": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "PGA Shirt": [
     "Clothes"
@@ -4957,27 +4946,27 @@
     "Mountable"
   ],
   "PaddedChair": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "PaintBucket": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Petals"
   ],
   "PaintMixer": [
-    "CanBeOnRug",
-    "CraftingTable"
+    "Can Be On Rug",
+    "Crafting Table"
   ],
   "Painting Upgrade": [
     "Upgrade"
   ],
   "PaintingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "Palm Log": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Wood"
   ],
@@ -4986,7 +4975,7 @@
     "Seeds"
   ],
   "PalmLog": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Wood"
   ],
@@ -5001,28 +4990,28 @@
     "Crop",
     "Food",
     "Fruit",
-    "RawFood"
+    "Raw Food"
   ],
   "Papaya Seed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
   "PapayaSeed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
   "Paper": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
-    "NaturalFiber"
+    "Natural Fiber"
   ],
   "Paper Milling Upgrade": [
     "Upgrade"
   ],
   "PaperMillingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "PaperMillingSkillScroll": [
     "SkillScrolls"
@@ -5040,7 +5029,7 @@
     "Clothes"
   ],
   "Peat": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel"
   ],
   "Pelt Fertilizer": [
@@ -5083,13 +5072,13 @@
     "Crop",
     "Food",
     "Fruit",
-    "RawFood"
+    "Raw Food"
   ],
   "Pineapple Friend Rice": [
     "Food"
   ],
   "Pineapple Seed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -5097,7 +5086,7 @@
     "Food"
   ],
   "PineappleSeed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -5114,19 +5103,19 @@
     "Parts"
   ],
   "Plant Fibers": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Crop",
     "Fuel",
-    "NaturalFiber"
+    "Natural Fiber"
   ],
   "Plant Vase": [
     "Housing"
   ],
   "PlantFibers": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Crop",
     "Fuel",
-    "NaturalFiber"
+    "Natural Fiber"
   ],
   "PlantVase": [
     "Housing"
@@ -5161,18 +5150,18 @@
     "Housing"
   ],
   "PlasticOutdoorBench": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "PlasticOutdoorChair": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "PlasticOutdoorTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
   "PlasticWindowPlanter": [
@@ -5197,21 +5186,21 @@
     "Upgrade"
   ],
   "PotterySkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "PotterySkillScroll": [
     "SkillScrolls"
   ],
   "PotteryTable": [
-    "CanBeOnRug",
-    "CraftingTable",
-    "HasTableSurface"
+    "Can Be On Rug",
+    "Crafting Table",
+    "Has Table Surface"
   ],
   "Poultry": [
     "Food"
   ],
   "PowerHammer": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Powered Cart": [
     "Mountable",
@@ -5222,12 +5211,12 @@
     "Vehicles"
   ],
   "Prairie Dog Carcass": [
-    "TinyCarcass",
-    "TinyLeatherCarcass"
+    "Tiny Carcass",
+    "Tiny Leather Carcass"
   ],
   "PrairieDogCarcass": [
-    "TinyCarcass",
-    "TinyLeatherCarcass"
+    "Tiny Carcass",
+    "Tiny Leather Carcass"
   ],
   "Prepared Meat": [
     "Food"
@@ -5242,10 +5231,10 @@
     "Crop",
     "Food",
     "Fruit",
-    "RawFood"
+    "Raw Food"
   ],
   "Prickly Pear Seed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -5253,10 +5242,10 @@
     "Crop",
     "Food",
     "Fruit",
-    "RawFood"
+    "Raw Food"
   ],
   "PricklyPearSeed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -5318,7 +5307,7 @@
     "Housing"
   ],
   "PrintingPress": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "PropagandaBoard": [
     "Housing"
@@ -5328,28 +5317,28 @@
   ],
   "Pulp Filler": [
     "Fertilizer",
-    "FertilizerFiller"
+    "Fertilizer Filler"
   ],
   "PulpFiller": [
     "Fertilizer",
-    "FertilizerFiller"
+    "Fertilizer Filler"
   ],
   "PumpJack": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Pumpkin": [
     "Crop",
     "Food",
     "Fruit",
-    "RawFood"
+    "Raw Food"
   ],
   "Pumpkin Seed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
   "PumpkinSeed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -5417,7 +5406,7 @@
     "Housing"
   ],
   "Redwood Log": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Softwood",
     "Wood"
@@ -5427,7 +5416,7 @@
     "Seeds"
   ],
   "RedwoodLog": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Softwood",
     "Wood"
@@ -5443,11 +5432,11 @@
     "Housing"
   ],
   "Refrigerator": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "Registrar": [
-    "CraftingTable",
+    "Crafting Table",
     "Settlement"
   ],
   "Reinforced Concrete": [
@@ -5463,17 +5452,17 @@
     "Tool"
   ],
   "ResearchTable": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "ResourceTags": [
     "Settlement"
   ],
   "Rice": [
     "Crop",
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Grain",
-    "RawFood",
+    "Raw Food",
     "Seeds"
   ],
   "Rice Flour": [
@@ -5504,29 +5493,29 @@
     "Food"
   ],
   "RoboticAssemblyLine": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "RockDrill": [
     "Tool"
   ],
   "RockerBox": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "RolledRugs": [
     "Housing"
   ],
   "RollingMill": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Root Campfire Salad": [
-    "CampfireSalad",
+    "Campfire Salad",
     "Food"
   ],
   "Root Campfire Stew": [
     "Food"
   ],
-  "RootCampfireSalad": [
-    "CampfireSalad",
+  "RootCampfire Salad": [
+    "Campfire Salad",
     "Food"
   ],
   "RootCampfireStew": [
@@ -5566,7 +5555,7 @@
     "Housing"
   ],
   "Saguaro Rib": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Wood"
   ],
@@ -5575,7 +5564,7 @@
     "Seeds"
   ],
   "SaguaroRib": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Wood"
   ],
@@ -5585,7 +5574,7 @@
   ],
   "Salmon": [
     "Fish",
-    "MediumFish"
+    "Medium Fish"
   ],
   "Salt Basket": [
     "Housing"
@@ -5606,7 +5595,7 @@
     "Housing"
   ],
   "Sawmill": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Saxifrage Seed": [
     "Food",
@@ -5629,19 +5618,19 @@
     "Food"
   ],
   "ScreeningMachine": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Screw": [
     "Parts"
   ],
   "ScrewPress": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Scrubber": [
     "Parts"
   ],
   "SculptorsTable": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Seagrass": [
     "Greens"
@@ -5667,10 +5656,10 @@
     "Food"
   ],
   "SelfImprovement": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "SensorBasedBeltSorter": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Sensuous Sea Pizza": [
     "Food"
@@ -5681,11 +5670,11 @@
   "Servo": [
     "Parts"
   ],
-  "SettlementCraftingTable": [
+  "SettlementCrafting Table": [
     "Settlement"
   ],
   "SewingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "SewingSkillScroll": [
     "SkillScrolls"
@@ -5694,7 +5683,7 @@
     "Rock"
   ],
   "Shaper": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Shark Fillet Soup": [
     "Food"
@@ -5712,8 +5701,8 @@
     "Housing"
   ],
   "SheepCarcass": [
-    "MediumCarcass",
-    "MediumWoolyCarcass"
+    "Medium Carcass",
+    "Medium Wooly Carcass"
   ],
   "SheepMount": [
     "Housing"
@@ -5722,7 +5711,7 @@
     "Housing"
   ],
   "ShelfCabinet": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "Shipwright Advanced Upgrade": [
@@ -5744,7 +5733,7 @@
     "Clothes"
   ],
   "ShipwrightAdvanced": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "ShipwrightHat": [
     "Clothes"
@@ -5756,22 +5745,22 @@
     "Clothes"
   ],
   "ShipwrightSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "ShipwrightSkillScroll": [
     "SkillScrolls"
   ],
   "ShipwrightTable": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Shipyard": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Shoji Door": [
-    "LargeDoor"
+    "Large Door"
   ],
   "ShojiDoor": [
-    "LargeDoor"
+    "Large Door"
   ],
   "ShopCart": [
     "Vehicles"
@@ -5798,7 +5787,7 @@
     "Fabric"
   ],
   "Silt": [
-    "NaturalFiber"
+    "Natural Fiber"
   ],
   "Simmered Meat": [
     "Food"
@@ -5813,7 +5802,7 @@
     "Food"
   ],
   "Sink": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "Skid Steer": [
@@ -5914,22 +5903,22 @@
     "Housing"
   ],
   "SmallPaperMachine": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "SmallShipyard": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "SmallSink": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
-  "SmallStandingAshlarStoneSign": [
+  "SmallStandingAshlar StoneSign": [
     "Housing"
   ],
   "SmallStandingLumberSign": [
     "Housing"
   ],
-  "SmallStandingMortaredStoneSign": [
+  "SmallStandingMortared StoneSign": [
     "Housing"
   ],
   "SmallWoodCart": [
@@ -5944,7 +5933,7 @@
     "Parts"
   ],
   "SmallWoodenShipyard": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Smelting Basic Upgrade": [
     "Upgrade"
@@ -5952,11 +5941,11 @@
   "Smelting Upgrade": [
     "Upgrade"
   ],
-  "SmeltingBasicUpgrade": [
+  "SmeltingBasic Upgrade": [
     "Upgrade"
   ],
   "SmeltingSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "SmeltingSkillScroll": [
     "SkillScrolls"
@@ -5998,7 +5987,7 @@
     "Clothes"
   ],
   "Smoker": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Smooth Gut Noodle Roll": [
     "Food"
@@ -6007,25 +5996,25 @@
     "Food"
   ],
   "Snapping Turtle Carcass": [
-    "TinyCarcass",
-    "TinyLeatherCarcass"
+    "Tiny Carcass",
+    "Tiny Leather Carcass"
   ],
   "SnappingTurtleCarcass": [
-    "TinyCarcass",
-    "TinyLeatherCarcass"
+    "Tiny Carcass",
+    "Tiny Leather Carcass"
   ],
   "Softwood Board": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
-    "WoodBoard"
+    "Wood Board"
   ],
   "Softwood Hewn Log": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "HewnLog"
   ],
   "Softwood Lumber": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Lumber"
   ],
@@ -6043,38 +6032,33 @@
   "Softwood Lumber Table": [
     "Housing"
   ],
-  "SoftwoodBoard": [
-    "BurnableFuel",
+  "SoftWood Board": [
+    "Burnable Fuel",
     "Fuel",
-    "WoodBoard"
+    "Wood Board"
   ],
   "SoftwoodHewnLog": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "HewnLog"
   ],
-  "SoftwoodLumber": [
-    "BurnableFuel",
-    "Fuel",
-    "Lumber"
-  ],
-  "SoftwoodLumberBench": [
-    "CanBeOnRug",
+  "Softwood LumberBench": [
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
-  "SoftwoodLumberChair": [
-    "CanBeOnRug",
+  "Softwood LumberChair": [
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
-  "SoftwoodLumberDresser": [
-    "CanBeOnRug",
+  "Softwood LumberDresser": [
+    "Can Be On Rug",
     "Housing"
   ],
-  "SoftwoodLumberTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+  "Softwood LumberTable": [
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
   "Soil Sampler": [
@@ -6093,10 +6077,10 @@
     "Food"
   ],
   "SpinMetedThread": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Spruce Log": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Softwood",
     "Wood"
@@ -6106,7 +6090,7 @@
     "Seeds"
   ],
   "SpruceLog": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
     "Softwood",
     "Wood"
@@ -6125,7 +6109,7 @@
     "Seeds"
   ],
   "StampMill": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "StandingGlassSign": [
     "Housing"
@@ -6240,7 +6224,7 @@
     "Housing"
   ],
   "SteelFloorLamp": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "SteelGear": [
@@ -6328,7 +6312,7 @@
     "Tool"
   ],
   "StoneBrazier": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "StoneHammer": [
@@ -6341,7 +6325,7 @@
     "Tool"
   ],
   "StonePlaque": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "StoneRoad": [
@@ -6357,13 +6341,13 @@
     "Housing"
   ],
   "Store": [
-    "CraftingTable",
-    "HasTableSurface",
+    "Crafting Table",
+    "Has Table Surface",
     "Settlement"
   ],
   "Stove": [
-    "CanBeOnRug",
-    "CraftingTable",
+    "Can Be On Rug",
+    "Crafting Table",
     "Housing"
   ],
   "Strange Fuel": [
@@ -6397,30 +6381,30 @@
     "Housing"
   ],
   "StuffedAlligator": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "StuffedBison": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "StuffedElk": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "StuffedGoat": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "StuffedJaguar": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "StuffedTurkey": [
     "Food"
   ],
   "StuffedWolf": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "Stump Bed": [
@@ -6439,12 +6423,12 @@
     "Housing"
   ],
   "StumpBed": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "StumpChair": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
@@ -6453,8 +6437,8 @@
     "Mountable"
   ],
   "StumpTable": [
-    "CanBeOnRug",
-    "HasTableSurface",
+    "Can Be On Rug",
+    "Has Table Surface",
     "Housing"
   ],
   "Sugar": [
@@ -6478,7 +6462,7 @@
     "Food"
   ],
   "Sunflower Seed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -6486,7 +6470,7 @@
     "Fat"
   ],
   "SunflowerSeed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -6497,7 +6481,7 @@
     "Food"
   ],
   "SurvivalSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "SurvivalSkillScroll": [
     "SkillScrolls"
@@ -6559,19 +6543,19 @@
   "Tailoring Upgrade": [
     "Upgrade"
   ],
-  "TailoringBasicUpgrade": [
+  "TailoringBasic Upgrade": [
     "Upgrade"
   ],
-  "TailoringModernUpgrade": [
+  "TailoringModern Upgrade": [
     "Upgrade"
   ],
   "TailoringSkillBook": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "TailoringTable": [
-    "CanBeOnRug",
-    "CraftingTable",
-    "HasTableSurface"
+    "Can Be On Rug",
+    "Crafting Table",
+    "Has Table Surface"
   ],
   "TailoringTableDataBoard": [
     "Housing"
@@ -6606,7 +6590,7 @@
     "Housing"
   ],
   "Tannery": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Tapestry": [
     "Housing"
@@ -6632,11 +6616,11 @@
   "Taro Root": [
     "Crop",
     "Food",
-    "RawFood",
+    "Raw Food",
     "Vegetable"
   ],
   "Taro Seed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -6646,11 +6630,11 @@
   "TaroRoot": [
     "Crop",
     "Food",
-    "RawFood",
+    "Raw Food",
     "Vegetable"
   ],
   "TaroSeed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -6664,16 +6648,16 @@
     "Settlement"
   ],
   "Thermometer": [
-    "SkillBooks"
+    "Skill Books"
   ],
   "Thread": [
-    "NaturalFiber"
+    "Natural Fiber"
   ],
   "Tiki Torch": [
     "Housing"
   ],
   "TikiTorch": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "Toilet": [
@@ -6683,22 +6667,22 @@
   "Tomato": [
     "Crop",
     "Food",
-    "RawFood",
+    "Raw Food",
     "Vegetable"
   ],
   "Tomato Seed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
   "TomatoSeed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
   "ToolBench": [
-    "CanBeOnRug",
-    "CraftingTable"
+    "Can Be On Rug",
+    "Crafting Table"
   ],
   "Topped Porridge": [
     "Food"
@@ -6713,7 +6697,7 @@
     "Housing"
   ],
   "TorchStand": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "Tortilla": [
@@ -6723,7 +6707,7 @@
     "Housing"
   ],
   "TowelRack": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "Town Bell": [
@@ -6736,7 +6720,7 @@
     "Housing"
   ],
   "TownFoundation": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Settlement"
   ],
@@ -6777,14 +6761,14 @@
     "Seeds"
   ],
   "TripodCamera": [
-    "CanBeOnRug"
+    "Can Be On Rug"
   ],
   "Trousers": [
     "Clothes"
   ],
   "Trout": [
     "Fish",
-    "MediumFish"
+    "Medium Fish"
   ],
   "Truck": [
     "Mountable",
@@ -6792,18 +6776,18 @@
   ],
   "Tuna": [
     "Fish",
-    "LargeFish"
+    "Large Fish"
   ],
   "Tunic": [
     "Clothes"
   ],
   "Turkey Carcass": [
-    "TinyCarcass",
-    "TinyLeatherCarcass"
+    "Tiny Carcass",
+    "Tiny Leather Carcass"
   ],
   "TurkeyCarcass": [
-    "TinyCarcass",
-    "TinyLeatherCarcass"
+    "Tiny Carcass",
+    "Tiny Leather Carcass"
   ],
   "Upholstered Chair": [
     "Housing",
@@ -6814,12 +6798,12 @@
     "Mountable"
   ],
   "UpholsteredChair": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "UpholsteredCouch": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
@@ -6851,9 +6835,9 @@
     "Clothes"
   ],
   "WainwrightTable": [
-    "CanBeOnRug",
-    "CraftingTable",
-    "HasTableSurface"
+    "Can Be On Rug",
+    "Crafting Table",
+    "Has Table Surface"
   ],
   "Wall Candle": [
     "Housing"
@@ -6874,14 +6858,14 @@
     "Clothes"
   ],
   "Washboard": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "Washing Machine": [
     "Housing"
   ],
   "WashingMachine": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "Waterweed Seed": [
@@ -6893,34 +6877,34 @@
     "Seeds"
   ],
   "WeaveCottonCanvas": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "WeaveCottonCurtains": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "WeaveLargeBathMat": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "WeaveLinenCanvas": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "WeaveNylonCurtains": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "WeaveSmallBathMat": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "WeaveWoolCurtains": [
-    "CraftingTable"
+    "Crafting Table"
   ],
   "Wheat": [
     "Crop",
     "Food",
     "Grain",
-    "RawFood"
+    "Raw Food"
   ],
   "Wheat Seed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -6928,7 +6912,7 @@
     "Food"
   ],
   "WheatSeed": [
-    "CropSeed",
+    "Crop Seed",
     "Food",
     "Seeds"
   ],
@@ -6969,11 +6953,11 @@
     "Food"
   ],
   "Wilted Fiddleheads": [
-    "CharredGreen",
+    "Charred Green",
     "Food"
   ],
   "WiltedFiddleheads": [
-    "CharredGreen",
+    "Charred Green",
     "Food"
   ],
   "WindTurbine": [
@@ -6998,16 +6982,16 @@
     "Housing"
   ],
   "Wolf Carcass": [
-    "SmallCarcass"
+    "Small Carcass"
   ],
   "Wolf Pelt": [
     "Housing"
   ],
   "WolfCarcass": [
-    "SmallCarcass"
+    "Small Carcass"
   ],
   "WolfPelt": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "Wood Cart": [
@@ -7018,9 +7002,9 @@
     "Housing"
   ],
   "Wood Pulp": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
-    "NaturalFiber"
+    "Natural Fiber"
   ],
   "Wood Shop Cart": [
     "Mountable",
@@ -7034,13 +7018,13 @@
     "Vehicles"
   ],
   "WoodPlaque": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "WoodPulp": [
-    "BurnableFuel",
+    "Burnable Fuel",
     "Fuel",
-    "NaturalFiber"
+    "Natural Fiber"
   ],
   "WoodShopCart": [
     "Mountable",
@@ -7097,7 +7081,7 @@
     "Tool"
   ],
   "Wooden Sliding Door": [
-    "LargeDoor"
+    "Large Door"
   ],
   "Wooden Straw Bed": [
     "Housing",
@@ -7124,12 +7108,12 @@
     "Housing"
   ],
   "WoodenFabricBed": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
   "WoodenFloorLamp": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing"
   ],
   "WoodenFrameLandscape": [
@@ -7183,10 +7167,10 @@
     "Housing"
   ],
   "WoodenSlidingDoor": [
-    "LargeDoor"
+    "Large Door"
   ],
   "WoodenStrawBed": [
-    "CanBeOnRug",
+    "Can Be On Rug",
     "Housing",
     "Mountable"
   ],
@@ -7204,7 +7188,7 @@
     "Parts"
   ],
   "Wool": [
-    "NaturalFiber"
+    "Natural Fiber"
   ],
   "Wool Fabric": [
     "Fabric"
@@ -7225,8 +7209,8 @@
     "Clothes"
   ],
   "Workbench": [
-    "CanBeOnRug",
-    "CraftingTable"
+    "Can Be On Rug",
+    "Crafting Table"
   ],
   "WorldMap": [
     "Housing"
@@ -7257,7 +7241,7 @@
     "Mountable"
   ],
   "ZatakuTable": [
-    "HasTableSurface",
+    "Has Table Surface",
     "Housing",
     "Mountable"
   ],
